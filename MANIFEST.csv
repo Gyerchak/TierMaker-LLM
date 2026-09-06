@@ -1,0 +1,315 @@
+file,display,date,tier,tail,old_group
+0-opencode/2025-05-22-claude-sonnet-4-base-OPENOC.png,Claude Sonnet 4,2025-05-22,0,OPENOC,1CLOSED
+0-opencode/2025-08-07-gpt-5-base-OPENOC.png,GPT 5,2025-08-07,0,OPENOC,1CLOSED
+0-opencode/2025-08-07-gpt-5-nano-base-OPENOC.png,GPT 5 Nano,2025-08-07,0,OPENOC,1CLOSED
+0-opencode/2025-09-15-gpt-5-codex-base-OPENOC.png,GPT 5 Codex,2025-09-15,0,OPENOC,1CLOSED
+0-opencode/2025-09-29-claude-sonnet-4-5-base-OPENOC.png,Claude Sonnet 4.5,2025-09-29,0,OPENOC,1CLOSED
+0-opencode/2025-10-15-claude-haiku-4-5-base-OPENOC.png,Claude Haiku 4.5,2025-10-15,0,OPENOC,1CLOSED
+0-opencode/2025-11-12-gpt-5-1-base-OPENOC.png,GPT 5.1,2025-11-12,0,OPENOC,1CLOSED
+0-opencode/2025-11-12-gpt-5-1-codex-base-OPENOC.png,GPT 5.1 Codex,2025-11-12,0,OPENOC,1CLOSED
+0-opencode/2025-11-13-gpt-5-1-codex-mini-base-OPENOC.png,GPT 5.1 Codex Mini,2025-11-13,0,OPENOC,1CLOSED
+0-opencode/2025-11-19-gpt-5-1-codex-max-base-OPENOC.png,GPT 5.1 Codex Max,2025-11-19,0,OPENOC,1CLOSED
+0-opencode/2025-11-24-claude-opus-4-5-base-OPENOC.png,Claude Opus 4.5,2025-11-24,0,OPENOC,1CLOSED
+0-opencode/2025-12-11-gpt-5-2-base-OPENOC.png,GPT 5.2,2025-12-11,0,OPENOC,1CLOSED
+0-opencode/2025-12-17-gemini-3-flash-base-OPENOC.png,Gemini 3 Flash,2025-12-17,0,OPENOC,1CLOSED
+0-opencode/2025-12-18-gpt-5-2-codex-base-OPENOC.png,GPT 5.2 Codex,2025-12-18,0,OPENOC,1CLOSED
+0-opencode/2026-01-27-kimi-k2-5-base-OPEN.png,Kimi K2.5,2026-01-27,4,OPEN,2OPEN
+0-opencode/2026-02-05-claude-opus-4-6-base-OPENOC.png,Claude Opus 4.6,2026-02-05,0,OPENOC,1CLOSED
+0-opencode/2026-02-05-gpt-5-3-codex-base-OPENOC.png,GPT 5.3 Codex,2026-02-05,0,OPENOC,1CLOSED
+0-opencode/2026-02-11-glm-5-base-OPEN.png,GLM 5,2026-02-11,4,OPEN,2OPEN
+0-opencode/2026-02-12-gpt-5-3-codex-spark-base-OPENOC.png,GPT 5.3 Codex Spark,2026-02-12,0,OPENOC,1CLOSED
+0-opencode/2026-02-12-minimax-m2-5-base-OPENOC.png,MiniMax M2.5,2026-02-12,0,OPENOC,1CLOSED
+0-opencode/2026-02-16-qwen3-5-plus-base-OPENOC.png,Qwen3.5 Plus,2026-02-16,0,OPENOC,1CLOSED
+0-opencode/2026-02-17-claude-sonnet-4-6-base-OPENOC.png,Claude Sonnet 4.6,2026-02-17,0,OPENOC,1CLOSED
+0-opencode/2026-03-05-gpt-5-4-base-OPENOC.png,GPT 5.4,2026-03-05,0,OPENOC,1CLOSED
+0-opencode/2026-03-05-gpt-5-4-pro-base-OPENOC.png,GPT 5.4 Pro,2026-03-05,0,OPENOC,1CLOSED
+0-opencode/2026-03-17-gpt-5-4-mini-base-OPENOC.png,GPT 5.4 Mini,2026-03-17,0,OPENOC,1CLOSED
+0-opencode/2026-03-17-gpt-5-4-nano-base-OPENOC.png,GPT 5.4 Nano,2026-03-17,0,OPENOC,1CLOSED
+0-opencode/2026-03-18-minimax-m2-7-base-OPEN.png,MiniMax M2.7,2026-03-18,4,OPEN,2OPEN
+0-opencode/2026-04-02-qwen3-6-plus-base-OPENOC.png,Qwen3.6 Plus,2026-04-02,0,OPENOC,1CLOSED
+0-opencode/2026-04-07-glm-5-1-base-OPEN.png,GLM 5.1,2026-04-07,4,OPEN,2OPEN
+0-opencode/2026-04-16-claude-opus-4-7-base-OPENOC.png,Claude Opus 4.7,2026-04-16,0,OPENOC,1CLOSED
+0-opencode/2026-04-20-kimi-k2-6-base-OPEN.png,Kimi K2.6,2026-04-20,4,OPEN,2OPEN
+0-opencode/2026-04-23-gpt-5-5-base-OPENOC.png,GPT 5.5,2026-04-23,0,OPENOC,1CLOSED
+0-opencode/2026-04-23-gpt-5-5-pro-base-OPENOC.png,GPT 5.5 Pro,2026-04-23,0,OPENOC,1CLOSED
+0-opencode/2026-05-28-claude-opus-4-8-base-OPENOC.png,Claude Opus 4.8,2026-05-28,0,OPENOC,1CLOSED
+0-opencode/2026-06-01-minimax-m3-base-OPEN.png,MiniMax M3,2026-06-01,4,OPEN,2OPEN
+0-opencode/2026-06-09-claude-fable-5-base-OPENOC.png,Claude Fable 5,2026-06-09,0,OPENOC,1CLOSED
+0-opencode/2026-06-12-kimi-k2-7-code-base-OPEN.png,Kimi K2.7 Code,2026-06-12,4,OPEN,2OPEN
+0-opencode/2026-06-13-glm-5-2-base-OPEN.png,GLM 5.2,2026-06-13,4,OPEN,2OPEN
+0-opencode/2026-06-30-claude-sonnet-5-base-OPENOC.png,Claude Sonnet 5,2026-06-30,0,OPENOC,1CLOSED
+0-opencode/2026-07-08-grok-4-5-base-OPENOC.png,Grok 4.5,2026-07-08,0,OPENOC,1CLOSED
+0-opencode/2026-07-09-gpt-5-6-luna-base-OPENOC.png,GPT 5.6 Luna,2026-07-09,0,OPENOC,1CLOSED
+0-opencode/2026-07-09-gpt-5-6-sol-base-OPENOC.png,GPT 5.6 Sol,2026-07-09,0,OPENOC,1CLOSED
+0-opencode/2026-07-09-gpt-5-6-terra-base-OPENOC.png,GPT 5.6 Terra,2026-07-09,0,OPENOC,1CLOSED
+0-opencode/2026-07-16-kimi-k3-base-OPENOC.png,Kimi K3,2026-07-16,0,OPENOC,1CLOSED
+0-opencode/2026-07-21-gemini-3-5-flash-lite-base-OPENOC.png,Gemini 3.5 Flash Lite,2026-07-21,0,OPENOC,1CLOSED
+0-opencode/2026-07-21-gemini-3-6-flash-base-OPENOC.png,Gemini 3.6 Flash,2026-07-21,0,OPENOC,1CLOSED
+0-opencode/2026-07-24-claude-opus-5-base-OPENOC.png,Claude Opus 5,2026-07-24,0,OPENOC,1CLOSED
+0-opencode/2026-07-31-deepseek-v4-flash-base-OPEN.png,DeepSeek V4 Flash,2026-07-31,4,OPEN,2OPEN
+0-opencode/2026-08-05-muse-spark-1-2-base-OPENOC.png,Muse Spark 1.2,2026-08-05,0,OPENOC,1CLOSED
+0-opencode/2026-08-11-nemotron-3-5-lightning-free-base-OPENOC.png,Nemotron 3.5 Lightning Free,2026-08-11,0,OPENOC,1CLOSED
+0-opencode/2026-08-12-grok-4-6-base-OPENOC.png,Grok 4.6,2026-08-12,0,OPENOC,1CLOSED
+0-opencode/2026-08-13-deepseek-v4-pro-base-OPEN.png,DeepSeek V4 Pro,2026-08-13,4,OPEN,2OPEN
+0-opencode/2026-08-13-gemini-3-7-flash-base-OPENOC.png,Gemini 3.7 Flash,2026-08-13,0,OPENOC,1CLOSED
+0-opencode/2026-08-14-glm-5-3-base-OPEN.png,GLM 5.3,2026-08-14,4,OPEN,2OPEN
+0-opencode/2026-08-21-deepseek-v4-flash-vision-exp-base-OPEN.png,DeepSeek V4 Flash Vision Exp,2026-08-21,4,OPEN,2OPEN
+0-opencode/2026-08-26-glm-5-3-flash-base-OPEN.png,GLM 5.3 Flash,2026-08-26,4,OPEN,2OPEN
+0-opencode/2026-08-27-ling-3-0-flash-fin-free-base-OPENOC.png,Ling 3.0 Flash Fin Free,2026-08-27,0,OPENOC,1CLOSED
+0-opencode/2026-09-01-claude-fable-5-1-base-OPENOC.png,Claude Fable 5.1,2026-09-01,0,OPENOC,1CLOSED
+0-opencode/2026-09-02-gemini-3-8-flash-base-OPENOC.png,Gemini 3.8 Flash,2026-09-02,0,OPENOC,1CLOSED
+0-opencode/2026-09-02-muse-spark-1-3-base-OPENOC.png,Muse Spark 1.3,2026-09-02,0,OPENOC,1CLOSED
+0-opencode/2026-09-03-gpt-6-astra-base-OPENOC.png,GPT 6 Astra,2026-09-03,0,OPENOC,1CLOSED
+1-anyone/2023-07-26-stable-diffusion-xl-base-ANYONE.png,Stable-Diffusion-XL-Base-1.0,2023-07-26,2,ANYONE,4ANYONE
+1-anyone/2023-08-03-qwen-7b-chat-base-ANYONE.png,Qwen-7B-Chat,2023-08-03,2,ANYONE,4ANYONE
+1-anyone/2023-09-27-mistral-7b-instruct-v0-1-base-ANYONE.png,Mistral-7B-Instruct-v0.1,2023-09-27,2,ANYONE,4ANYONE
+1-anyone/2023-11-28-sdxl-turbo-base-ANYONE.png,SDXL-Turbo,2023-11-28,2,ANYONE,4ANYONE
+1-anyone/2023-12-11-mistral-7b-instruct-v0-2-base-ANYONE.png,Mistral-7B-Instruct-v0.2,2023-12-11,2,ANYONE,4ANYONE
+1-anyone/2024-02-04-qwen1-5-7b-chat-base-ANYONE.png,Qwen1.5-7B-Chat,2024-02-04,2,ANYONE,4ANYONE
+1-anyone/2024-02-05-qwen1-5-0-5b-chat-base-ANYONE.png,Qwen1.5-0.5B-Chat,2024-02-05,2,ANYONE,4ANYONE
+1-anyone/2024-02-05-qwen1-5-1-8b-chat-base-ANYONE.png,Qwen1.5-1.8B-Chat,2024-02-05,2,ANYONE,4ANYONE
+1-anyone/2024-04-23-phi-3-mini-128k-instruct-base-ANYONE.png,Phi-3-mini-128k-instruct,2024-04-23,2,ANYONE,4ANYONE
+1-anyone/2024-05-22-mistral-7b-instruct-v0-3-base-ANYONE.png,Mistral-7B-Instruct-v0.3,2024-05-22,2,ANYONE,4ANYONE
+1-anyone/2024-06-06-qwen2-7b-instruct-base-ANYONE.png,Qwen2-7B-Instruct,2024-06-06,2,ANYONE,4ANYONE
+1-anyone/2024-06-07-qwen2-1-5b-instruct-base-ANYONE.png,Qwen2-1.5B-Instruct,2024-06-07,2,ANYONE,4ANYONE
+1-anyone/2024-06-27-gemma-2-9b-it-base-ANYONE.png,Gemma-2-9b-it,2024-06-27,2,ANYONE,4ANYONE
+1-anyone/2024-07-23-llama-3-1-8b-instruct-base-ANYONE.png,Llama-3.1-8B-Instruct,2024-07-23,2,ANYONE,4ANYONE
+1-anyone/2024-07-31-gemma-2-2b-it-base-ANYONE.png,Gemma-2-2b-it,2024-07-31,2,ANYONE,4ANYONE
+1-anyone/2024-08-01-flux-1-dev-base-ANYONE.png,FLUX.1-dev,2024-08-01,2,ANYONE,4ANYONE
+1-anyone/2024-08-01-flux-1-schnell-base-ANYONE.png,FLUX.1-schnell,2024-08-01,2,ANYONE,4ANYONE
+1-anyone/2024-08-09-qwen2-audio-7b-instruct-base-ANYONE.png,Qwen2-Audio-7B-Instruct,2024-08-09,2,ANYONE,4ANYONE
+1-anyone/2024-08-20-phi-3-5-mini-instruct-base-ANYONE.png,Phi-3.5-mini-instruct,2024-08-20,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-0-5b-instruct-base-ANYONE.png,Qwen2.5-0.5B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-1-5b-instruct-base-ANYONE.png,Qwen2.5-1.5B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-3b-instruct-base-ANYONE.png,Qwen2.5-3B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-7b-instruct-base-ANYONE.png,Qwen2.5-7B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-coder-1-5b-instruct-base-ANYONE.png,Qwen2.5-Coder-1.5B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-19-qwen2-5-coder-7b-instruct-base-ANYONE.png,Qwen2.5-Coder-7B-Instruct,2024-09-19,2,ANYONE,4ANYONE
+1-anyone/2024-09-25-llama-3-2-11b-vision-instruct-base-ANYONE.png,Llama-3.2-11B-Vision-Instruct,2024-09-25,2,ANYONE,4ANYONE
+1-anyone/2024-09-25-llama-3-2-1b-instruct-base-ANYONE.png,Llama-3.2-1B-Instruct,2024-09-25,2,ANYONE,4ANYONE
+1-anyone/2024-09-25-llama-3-2-3b-instruct-base-ANYONE.png,Llama-3.2-3B-Instruct,2024-09-25,2,ANYONE,4ANYONE
+1-anyone/2024-10-16-ministral-3b-instruct-base-ANYONE.png,Ministral-3B-Instruct,2024-10-16,2,ANYONE,4ANYONE
+1-anyone/2024-10-16-ministral-8b-instruct-2410-base-ANYONE.png,Ministral-8B-Instruct-2410,2024-10-16,2,ANYONE,4ANYONE
+1-anyone/2024-10-29-stable-diffusion-3-5-medium-base-ANYONE.png,Stable-Diffusion-3.5-Medium,2024-10-29,2,ANYONE,4ANYONE
+1-anyone/2024-10-31-smollm2-135m-base-ANYONE.png,SmolLM2-135M,2024-10-31,2,ANYONE,4ANYONE
+1-anyone/2024-11-02-smollm2-1-7b-base-ANYONE.png,SmolLM2-1.7B,2024-11-02,2,ANYONE,4ANYONE
+1-anyone/2024-11-02-smollm2-360m-base-ANYONE.png,SmolLM2-360M,2024-11-02,2,ANYONE,4ANYONE
+1-anyone/2024-11-12-qwen2-5-coder-0-5b-instruct-base-ANYONE.png,Qwen2.5-Coder-0.5B-Instruct,2024-11-12,2,ANYONE,4ANYONE
+1-anyone/2024-11-12-qwen2-5-coder-3b-instruct-base-ANYONE.png,Qwen2.5-Coder-3B-Instruct,2024-11-12,2,ANYONE,4ANYONE
+1-anyone/2024-11-26-smolvlm-instruct-base-ANYONE.png,SmolVLM-Instruct,2024-11-26,2,ANYONE,4ANYONE
+1-anyone/2024-12-01-exaone-3-5-2-4b-instruct-base-ANYONE.png,EXAONE-3.5-2.4B-Instruct,2024-12-01,2,ANYONE,4ANYONE
+1-anyone/2024-12-09-eurollm-9b-instruct-base-ANYONE.png,EuroLLM-9B-Instruct,2024-12-09,2,ANYONE,4ANYONE
+1-anyone/2024-12-18-olmo-2-1124-7b-instruct-base-ANYONE.png,OLMo-2-1124-7B-Instruct,2024-12-18,2,ANYONE,4ANYONE
+1-anyone/2025-01-20-deepseek-r1-base-ANYONE.png,DeepSeek-R1,2025-01-20,2,ANYONE,4ANYONE
+1-anyone/2025-01-20-deepseek-r1-distill-llama-8b-base-ANYONE.png,DeepSeek-R1-Distill-Llama-8B,2025-01-20,2,ANYONE,4ANYONE
+1-anyone/2025-01-20-deepseek-r1-distill-qwen-1-5b-base-ANYONE.png,DeepSeek-R1-Distill-Qwen-1.5B,2025-01-20,2,ANYONE,4ANYONE
+1-anyone/2025-01-20-deepseek-r1-distill-qwen-7b-base-ANYONE.png,DeepSeek-R1-Distill-Qwen-7B,2025-01-20,2,ANYONE,4ANYONE
+1-anyone/2025-01-26-qwen2-5-vl-7b-instruct-base-ANYONE.png,Qwen2.5-VL-7B-Instruct,2025-01-26,2,ANYONE,4ANYONE
+1-anyone/2025-01-28-qwen2-5-vl-3b-instruct-base-ANYONE.png,Qwen2.5-VL-3B-Instruct,2025-01-28,2,ANYONE,4ANYONE
+1-anyone/2025-02-26-phi-4-mini-instruct-base-ANYONE.png,Phi-4-mini-instruct,2025-02-26,2,ANYONE,4ANYONE
+1-anyone/2025-03-10-gemma-3-1b-it-base-ANYONE.png,Gemma-3-1b-it,2025-03-10,2,ANYONE,4ANYONE
+1-anyone/2025-03-12-gemma-3-4b-it-base-ANYONE.png,Gemma-3-4b-it,2025-03-12,2,ANYONE,4ANYONE
+1-anyone/2025-03-26-qwen2-5-omni-7b-base-ANYONE.png,Qwen2.5-Omni-7B,2025-03-26,2,ANYONE,4ANYONE
+1-anyone/2025-04-30-phi-4-reasoning-base-ANYONE.png,Phi-4-reasoning,2025-04-30,2,ANYONE,4ANYONE
+1-anyone/2025-06-05-mimo-7b-rl-base-ANYONE.png,MiMo-7B-RL,2025-06-05,2,ANYONE,4ANYONE
+1-anyone/2025-06-26-flux-1-kontext-dev-base-ANYONE.png,FLUX.1-Kontext-dev,2025-06-26,2,ANYONE,4ANYONE
+1-anyone/2025-06-26-gemma-3n-e4b-it-base-ANYONE.png,Gemma-3n-E4B-it,2025-06-26,2,ANYONE,4ANYONE
+1-anyone/2025-07-08-smollm3-3b-base-ANYONE.png,SmolLM3-3B,2025-07-08,2,ANYONE,4ANYONE
+1-anyone/2025-07-14-gemma-3n-e2b-it-base-ANYONE.png,Gemma-3n-E2B-it,2025-07-14,2,ANYONE,4ANYONE
+1-anyone/2025-08-06-qwen3-4b-2507-base-ANYONE.png,Qwen3-4B-2507,2025-08-06,2,ANYONE,4ANYONE
+1-anyone/2026-01-15-flux-2-klein-4b-base-ANYONE.png,FLUX.2-klein-4B,2026-01-15,2,ANYONE,4ANYONE
+1-anyone/2026-08-14-qwen3-8-27b-base-ANYONE.png,Qwen3.8 27B,2026-08-14,2,ANYONE,4ANYONE
+2-hobbyst/2023-12-11-mixtral-8x7b-instruct-v0-1-base-HOBBYST.png,Mixtral-8x7B-Instruct-v0.1,2023-12-11,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-04-02-qwen1-5-32b-chat-base-HOBBYST.png,Qwen1.5-32B-Chat,2024-04-02,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-05-21-phi-3-medium-128k-instruct-base-HOBBYST.png,Phi-3-medium-128k-instruct,2024-05-21,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-06-17-deepseek-coder-v2-lite-instruct-base-HOBBYST.png,DeepSeek-Coder-V2-Lite-Instruct,2024-06-17,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-06-27-gemma-2-27b-it-base-HOBBYST.png,Gemma-2-27b-it,2024-06-27,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-08-22-phi-3-5-moe-instruct-base-HOBBYST.png,Phi-3.5-MoE-instruct,2024-08-22,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-09-19-qwen2-5-14b-instruct-base-HOBBYST.png,Qwen2.5-14B-Instruct,2024-09-19,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-09-19-qwen2-5-32b-instruct-base-HOBBYST.png,Qwen2.5-32B-Instruct,2024-09-19,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-11-12-qwen2-5-coder-14b-instruct-base-HOBBYST.png,Qwen2.5-Coder-14B-Instruct,2024-11-12,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-11-12-qwen2-5-coder-32b-instruct-base-HOBBYST.png,Qwen2.5-Coder-32B-Instruct,2024-11-12,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-12-09-exaone-3-5-32b-instruct-base-HOBBYST.png,EXAONE-3.5-32B-Instruct,2024-12-09,3,HOBBYST,3HOBBYST
+2-hobbyst/2024-12-12-phi-4-base-HOBBYST.png,Phi-4,2024-12-12,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-01-20-deepseek-r1-distill-qwen-14b-base-HOBBYST.png,DeepSeek-R1-Distill-Qwen-14B,2025-01-20,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-01-20-deepseek-r1-distill-qwen-32b-base-HOBBYST.png,DeepSeek-R1-Distill-Qwen-32B,2025-01-20,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-03-12-gemma-3-12b-it-base-HOBBYST.png,Gemma-3-12b-it,2025-03-12,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-03-12-gemma-3-27b-it-base-HOBBYST.png,Gemma-3-27b-it,2025-03-12,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-03-13-olmo-2-0325-32b-instruct-base-HOBBYST.png,OLMo-2-0325-32B-Instruct,2025-03-13,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-03-17-mistral-small-3-1-24b-instruct-2503-base-HOBBYST.png,Mistral-Small-3.1-24B-Instruct-2503,2025-03-17,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-04-17-phi-4-reasoning-plus-base-HOBBYST.png,Phi-4-reasoning-plus,2025-04-17,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-04-29-qwen3-32b-base-HOBBYST.png,Qwen3-32B,2025-04-29,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-06-10-magistral-small-2506-base-HOBBYST.png,Magistral-Small-2506,2025-06-10,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-08-05-gpt-oss-20b-base-HOBBYST.png,GPT-OSS-20B,2025-08-05,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-08-20-seed-oss-36b-instruct-base-HOBBYST.png,Seed-OSS-36B-Instruct,2025-08-20,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-09-22-qwen-image-edit-2509-base-HOBBYST.png,Qwen-Image-Edit-2509,2025-09-22,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-10-30-kimi-linear-48b-a3b-instruct-base-HOBBYST.png,Kimi-Linear-48B-A3B-Instruct,2025-10-30,3,HOBBYST,3HOBBYST
+2-hobbyst/2025-12-19-qwen-image-layered-base-HOBBYST.png,Qwen-Image-Layered,2025-12-19,3,HOBBYST,3HOBBYST
+3-open/2024-04-17-mixtral-8x22b-instruct-v0-1-base-OPEN.png,Mixtral-8x22B-Instruct-v0.1,2024-04-17,4,OPEN,2OPEN
+3-open/2024-05-06-deepseek-v2-base-OPEN.png,DeepSeek-V2,2024-05-06,4,OPEN,2OPEN
+3-open/2024-06-07-qwen2-72b-instruct-base-OPEN.png,Qwen2-72B-Instruct,2024-06-07,4,OPEN,2OPEN
+3-open/2024-06-17-deepseek-coder-v2-instruct-base-OPEN.png,DeepSeek-Coder-V2-Instruct,2024-06-17,4,OPEN,2OPEN
+3-open/2024-07-16-mathstral-7b-v0-1-base-OPEN.png,Mathstral-7B-v0.1,2024-07-16,4,OPEN,2OPEN
+3-open/2024-07-23-llama-3-1-405b-instruct-base-OPEN.png,Llama-3.1-405B-Instruct,2024-07-23,4,OPEN,2OPEN
+3-open/2024-07-23-llama-3-1-70b-instruct-base-OPEN.png,Llama-3.1-70B-Instruct,2024-07-23,4,OPEN,2OPEN
+3-open/2024-09-11-solar-pro-preview-instruct-base-OPEN.png,Solar-Pro-Preview-Instruct,2024-09-11,4,OPEN,2OPEN
+3-open/2024-09-17-mistral-small-instruct-2409-base-OPEN.png,Mistral-Small-Instruct-2409,2024-09-17,4,OPEN,2OPEN
+3-open/2024-09-19-qwen2-5-72b-instruct-base-OPEN.png,Qwen2.5-72B-Instruct,2024-09-19,4,OPEN,2OPEN
+3-open/2024-09-25-llama-3-2-90b-vision-instruct-base-OPEN.png,Llama-3.2-90B-Vision-Instruct,2024-09-25,4,OPEN,2OPEN
+3-open/2024-11-18-mistral-large-instruct-2411-base-OPEN.png,Mistral-Large-Instruct-2411,2024-11-18,4,OPEN,2OPEN
+3-open/2024-12-06-llama-3-3-70b-instruct-base-OPEN.png,Llama-3.3-70B-Instruct,2024-12-06,4,OPEN,2OPEN
+3-open/2024-12-26-deepseek-v3-base-OPEN.png,DeepSeek-V3,2024-12-26,4,OPEN,2OPEN
+3-open/2025-01-20-deepseek-r1-distill-llama-70b-base-OPEN.png,DeepSeek-R1-Distill-Llama-70B,2025-01-20,4,OPEN,2OPEN
+3-open/2025-01-26-qwen2-5-vl-72b-instruct-base-OPEN.png,Qwen2.5-VL-72B-Instruct,2025-01-26,4,OPEN,2OPEN
+3-open/2025-03-24-deepseek-v3-0324-base-OPEN.png,DeepSeek-V3-0324,2025-03-24,4,OPEN,2OPEN
+3-open/2025-07-21-qwen3-235b-a22b-2507-base-OPEN.png,Qwen3-235B-A22B-2507,2025-07-21,4,OPEN,2OPEN
+3-open/2025-07-28-glm-4-5-air-base-OPEN.png,GLM-4.5-Air,2025-07-28,4,OPEN,2OPEN
+3-open/2025-07-30-qwen3-30b-a3b-2507-base-OPEN.png,Qwen3-30B-A3B-2507,2025-07-30,4,OPEN,2OPEN
+3-open/2025-08-05-gpt-oss-120b-base-OPEN.png,GPT-OSS-120B,2025-08-05,4,OPEN,2OPEN
+3-open/2025-08-10-glm-4-5v-base-OPEN.png,GLM-4.5V,2025-08-10,4,OPEN,2OPEN
+3-open/2025-12-08-glm-4-6v-base-OPEN.png,GLM-4.6V,2025-12-08,4,OPEN,2OPEN
+3-open/2025-12-31-qwen-image-2512-base-OPEN.png,Qwen-Image-2512,2025-12-31,4,OPEN,2OPEN
+3-open/2026-04-22-mimo-v2-5-base-OPEN.png,MiMo-V2.5,2026-04-22,4,OPEN,2OPEN
+3-open/2026-04-27-mimo-v2-5-pro-base-OPEN.png,MiMo-V2.5-Pro,2026-04-27,4,OPEN,2OPEN
+3-open/2026-08-03-qwen3-8-max-base-OPEN.png,Qwen3.8 Max,2026-08-03,4,OPEN,2OPEN
+3-open/2026-08-12-qwen3-8-2-4t-a95b-base-OPEN.png,Qwen3.8 2.4T A95B,2026-08-12,4,OPEN,2OPEN
+3-open/2026-08-13-deepseek-v4-pro-0813-base-OPEN.png,DeepSeek V4 Pro 0813,2026-08-13,4,OPEN,2OPEN
+3-open/2026-08-26-qwen3-8-flash-next-base-OPEN.png,Qwen3.8-Flash-Next,2026-08-26,4,OPEN,2OPEN
+4-other/2022-10-20-stable-diffusion-1-5-base-CLOSED.png,Stable-Diffusion-1.5,2022-10-20,4,CLOSED,1CLOSED
+4-other/2023-08-24-code-llama-13b-instruct-hf-base-CLOSED.png,Code-Llama-13b-Instruct-hf,2023-08-24,4,CLOSED,1CLOSED
+4-other/2023-08-24-code-llama-34b-instruct-hf-base-CLOSED.png,Code-Llama-34b-Instruct-hf,2023-08-24,4,CLOSED,1CLOSED
+4-other/2023-08-24-code-llama-7b-instruct-hf-base-CLOSED.png,Code-Llama-7b-Instruct-hf,2023-08-24,4,CLOSED,1CLOSED
+4-other/2023-09-20-dall-e-3-base-CLOSED.png,DALL-E 3,2023-09-20,4,CLOSED,1CLOSED
+4-other/2023-09-25-qwen-14b-chat-base-CLOSED.png,Qwen-14B-Chat,2023-09-25,4,CLOSED,1CLOSED
+4-other/2023-09-27-open-mistral-7b-base-CLOSED.png,Open-Mistral-7B,2023-09-27,4,CLOSED,1CLOSED
+4-other/2023-10-25-zephyr-7b-beta-base-CLOSED.png,Zephyr-7b-beta,2023-10-25,4,CLOSED,1CLOSED
+4-other/2023-11-29-deepseek-llm-67b-chat-base-CLOSED.png,DeepSeek-LLM-67B-Chat,2023-11-29,4,CLOSED,1CLOSED
+4-other/2023-11-30-qwen-72b-chat-base-CLOSED.png,Qwen-72B-Chat,2023-11-30,4,CLOSED,1CLOSED
+4-other/2023-12-11-open-mixtral-8x7b-base-CLOSED.png,Open-Mixtral-8x7B,2023-12-11,4,CLOSED,1CLOSED
+4-other/2023-12-13-solar-10-7b-instruct-v1-0-base-CLOSED.png,SOLAR-10.7B-Instruct-v1.0,2023-12-13,4,CLOSED,1CLOSED
+4-other/2024-01-06-openchat-3-5-0106-base-CLOSED.png,OpenChat-3.5-0106,2024-01-06,4,CLOSED,1CLOSED
+4-other/2024-01-29-code-llama-70b-instruct-hf-base-CLOSED.png,Code-Llama-70b-Instruct-hf,2024-01-29,4,CLOSED,1CLOSED
+4-other/2024-02-04-qwen1-5-14b-chat-base-CLOSED.png,Qwen1.5-14B-Chat,2024-02-04,4,CLOSED,1CLOSED
+4-other/2024-02-04-qwen1-5-4b-chat-base-CLOSED.png,Qwen1.5-4B-Chat,2024-02-04,4,CLOSED,1CLOSED
+4-other/2024-02-04-qwen1-5-72b-chat-base-CLOSED.png,Qwen1.5-72B-Chat,2024-02-04,4,CLOSED,1CLOSED
+4-other/2024-02-28-starcoder2-15b-base-CLOSED.png,StarCoder2-15B,2024-02-28,4,CLOSED,1CLOSED
+4-other/2024-03-11-c4ai-command-r-v01-base-CLOSED.png,C4AI-Command-R-v01,2024-03-11,4,CLOSED,1CLOSED
+4-other/2024-03-19-starling-lm-7b-beta-base-CLOSED.png,Starling-LM-7B-beta,2024-03-19,4,CLOSED,1CLOSED
+4-other/2024-03-30-bielik-7b-instruct-v0-1-base-CLOSED.png,Bielik-7B-Instruct-v0.1,2024-03-30,4,CLOSED,1CLOSED
+4-other/2024-04-11-pixart-sigma-xl-2-1024-ms-base-CLOSED.png,PixArt-Sigma-XL-2-1024-MS,2024-04-11,4,CLOSED,1CLOSED
+4-other/2024-04-17-open-mixtral-8x22b-base-CLOSED.png,Open-Mixtral-8x22B,2024-04-17,4,CLOSED,1CLOSED
+4-other/2024-04-18-llama-3-70b-chat-hf-base-CLOSED.png,Llama-3-70b-chat-hf,2024-04-18,4,CLOSED,1CLOSED
+4-other/2024-04-18-llama-3-8b-chat-hf-base-CLOSED.png,Llama-3-8b-chat-hf,2024-04-18,4,CLOSED,1CLOSED
+4-other/2024-04-25-qwen1-5-110b-chat-base-CLOSED.png,Qwen1.5-110B-Chat,2024-04-25,4,CLOSED,1CLOSED
+4-other/2024-05-21-phi-3-small-128k-instruct-base-CLOSED.png,Phi-3-small-128k-instruct,2024-05-21,4,CLOSED,1CLOSED
+4-other/2024-05-29-codestral-22b-v0-1-base-CLOSED.png,Codestral-22B-v0.1,2024-05-29,4,CLOSED,1CLOSED
+4-other/2024-05-29-codestral-2405-base-CLOSED.png,Codestral-2405,2024-05-29,4,CLOSED,1CLOSED
+4-other/2024-06-12-sd3-medium-base-CLOSED.png,SD3-Medium,2024-06-12,4,CLOSED,1CLOSED
+4-other/2024-07-16-smollm-1-7b-base-CLOSED.png,SmolLM-1.7B,2024-07-16,4,CLOSED,1CLOSED
+4-other/2024-07-24-mistral-large-instruct-2407-base-CLOSED.png,Mistral-Large-Instruct-2407,2024-07-24,4,CLOSED,1CLOSED
+4-other/2024-08-14-auraflow-v0-3-base-CLOSED.png,AuraFlow-v0.3,2024-08-14,4,CLOSED,1CLOSED
+4-other/2024-08-26-bielik-11b-v2-instruct-base-CLOSED.png,Bielik-11B-v2-Instruct,2024-08-26,4,CLOSED,1CLOSED
+4-other/2024-08-28-bielik-11b-v2-2-instruct-base-CLOSED.png,Bielik-11B-v2.2-Instruct,2024-08-28,4,CLOSED,1CLOSED
+4-other/2024-08-30-bielik-11b-v2-3-instruct-base-CLOSED.png,Bielik-11B-v2.3-Instruct,2024-08-30,4,CLOSED,1CLOSED
+4-other/2024-08-30-command-r-08-2024-base-CLOSED.png,Command-R-08-2024,2024-08-30,4,CLOSED,1CLOSED
+4-other/2024-08-30-command-r-plus-08-2024-base-CLOSED.png,Command-R-Plus-08-2024,2024-08-30,4,CLOSED,1CLOSED
+4-other/2024-09-03-olmoe-1b-7b-0924-instruct-base-CLOSED.png,OLMoE-1B-7B-0924-Instruct,2024-09-03,4,CLOSED,1CLOSED
+4-other/2024-09-05-deepseek-v2-5-base-CLOSED.png,DeepSeek-V2.5,2024-09-05,4,CLOSED,1CLOSED
+4-other/2024-09-23-teuken-7b-instruct-research-v0-4-base-CLOSED.png,Teuken-7B-instruct-research-v0.4,2024-09-23,4,CLOSED,1CLOSED
+4-other/2024-09-30-salamandra-7b-instruct-base-CLOSED.png,Salamandra-7b-instruct,2024-09-30,4,CLOSED,1CLOSED
+4-other/2024-10-22-c-sd-3-5-large-base-CLOSED.png,C SD 3.5 Large,2024-10-22,4,CLOSED,1CLOSED
+4-other/2024-10-24-aya-expanse-32b-base-CLOSED.png,Aya-Expanse-32b,2024-10-24,4,CLOSED,1CLOSED
+4-other/2024-10-24-aya-expanse-8b-base-CLOSED.png,Aya-Expanse-8b,2024-10-24,4,CLOSED,1CLOSED
+4-other/2024-10-30-recraft-v3-base-CLOSED.png,Recraft-V3,2024-10-30,4,CLOSED,1CLOSED
+4-other/2024-11-18-pixtral-large-instruct-2411-base-CLOSED.png,Pixtral-Large-Instruct-2411,2024-11-18,4,CLOSED,1CLOSED
+4-other/2024-11-21-tulu-3-70b-base-CLOSED.png,Tulu-3-70B,2024-11-21,4,CLOSED,1CLOSED
+4-other/2024-11-21-tulu-3-8b-base-CLOSED.png,Tulu-3-8B,2024-11-21,4,CLOSED,1CLOSED
+4-other/2024-11-26-olmo-2-1124-13b-instruct-base-CLOSED.png,OLMo-2-1124-13B-Instruct,2024-11-26,4,CLOSED,1CLOSED
+4-other/2024-12-09-exaone-3-5-7b-instruct-base-CLOSED.png,EXAONE-3.5-7B-Instruct,2024-12-09,4,CLOSED,1CLOSED
+4-other/2024-12-13-command-r7b-12-2024-base-CLOSED.png,Command-R7B-12-2024,2024-12-13,4,CLOSED,1CLOSED
+4-other/2024-12-13-deepseek-vl2-small-base-CLOSED.png,DeepSeek-VL2-small,2024-12-13,4,CLOSED,1CLOSED
+4-other/2024-12-17-falcon3-10b-instruct-base-CLOSED.png,Falcon3-10B-Instruct,2024-12-17,4,CLOSED,1CLOSED
+4-other/2024-12-17-falcon3-1b-instruct-base-CLOSED.png,Falcon3-1B-Instruct,2024-12-17,4,CLOSED,1CLOSED
+4-other/2024-12-17-falcon3-3b-instruct-base-CLOSED.png,Falcon3-3B-Instruct,2024-12-17,4,CLOSED,1CLOSED
+4-other/2024-12-17-falcon3-7b-instruct-base-CLOSED.png,Falcon3-7B-Instruct,2024-12-17,4,CLOSED,1CLOSED
+4-other/2025-01-20-deepseek-r1-zero-base-CLOSED.png,DeepSeek-R1-Zero,2025-01-20,4,CLOSED,1CLOSED
+4-other/2025-01-25-lumina-image-2-0-base-CLOSED.png,Lumina-Image-2.0,2025-01-25,4,CLOSED,1CLOSED
+4-other/2025-01-27-janus-pro-7b-base-CLOSED.png,Janus-Pro-7B,2025-01-27,4,CLOSED,1CLOSED
+4-other/2025-01-28-qwen2-5-max-base-CLOSED.png,Qwen2.5-Max,2025-01-28,4,CLOSED,1CLOSED
+4-other/2025-01-30-tulu-3-405b-base-CLOSED.png,Tulu-3-405B,2025-01-30,4,CLOSED,1CLOSED
+4-other/2025-02-26-phi-4-multimodal-instruct-base-CLOSED.png,Phi-4-multimodal-instruct,2025-02-26,4,CLOSED,1CLOSED
+4-other/2025-02-27-kanana-nano-2-1b-base-base-CLOSED.png,Kanana-Nano-2.1B-Base,2025-02-27,4,CLOSED,1CLOSED
+4-other/2025-03-13-command-a-03-2025-base-CLOSED.png,Command-A-03-2025,2025-03-13,4,CLOSED,1CLOSED
+4-other/2025-03-16-sana-1-5-4-8b-2560px-base-CLOSED.png,Sana-1.5-4.8B-2560px,2025-03-16,4,CLOSED,1CLOSED
+4-other/2025-03-18-exaone-deep-2-4b-base-CLOSED.png,EXAONE-Deep-2.4B,2025-03-18,4,CLOSED,1CLOSED
+4-other/2025-03-18-exaone-deep-32b-base-CLOSED.png,EXAONE-Deep-32B,2025-03-18,4,CLOSED,1CLOSED
+4-other/2025-03-18-exaone-deep-7b-base-CLOSED.png,EXAONE-Deep-7B,2025-03-18,4,CLOSED,1CLOSED
+4-other/2025-03-22-sana-sprint-1-6b-1024px-base-CLOSED.png,Sana-Sprint-1.6B-1024px,2025-03-22,4,CLOSED,1CLOSED
+4-other/2025-03-26-ideogram-3-0-base-CLOSED.png,Ideogram-3.0,2025-03-26,4,CLOSED,1CLOSED
+4-other/2025-04-07-hidream-i1-full-base-CLOSED.png,HiDream-I1-Full,2025-04-07,4,CLOSED,1CLOSED
+4-other/2025-04-08-hidream-i1-dev-base-CLOSED.png,HiDream-I1-Dev,2025-04-08,4,CLOSED,1CLOSED
+4-other/2025-04-15-kolors-2-0-base-CLOSED.png,Kolors-2.0,2025-04-15,4,CLOSED,1CLOSED
+4-other/2025-04-23-gpt-image-1-base-CLOSED.png,GPT-Image-1,2025-04-23,4,CLOSED,1CLOSED
+4-other/2025-04-24-hyperclova-x-seed-text-instruct-0-5b-base-CLOSED.png,HyperCLOVA-X-SEED-Text-Instruct-0.5B,2025-04-24,4,CLOSED,1CLOSED
+4-other/2025-04-24-hyperclova-x-seed-text-instruct-3b-base-CLOSED.png,HyperCLOVA-X-SEED-Text-Instruct-3B,2025-04-24,4,CLOSED,1CLOSED
+4-other/2025-04-28-hidream-e1-full-base-CLOSED.png,HiDream-E1-Full,2025-04-28,4,CLOSED,1CLOSED
+4-other/2025-05-06-bielik-11b-v2-5-instruct-base-CLOSED.png,Bielik-11B-v2.5-Instruct,2025-05-06,4,CLOSED,1CLOSED
+4-other/2025-05-07-mistral-medium-2505-base-CLOSED.png,Mistral-Medium-2505,2025-05-07,4,CLOSED,1CLOSED
+4-other/2025-05-20-bagel-base-CLOSED.png,Bagel,2025-05-20,4,CLOSED,1CLOSED
+4-other/2025-05-21-devstral-small-2505-base-CLOSED.png,Devstral-Small-2505,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-21-falcon-h1-0-5b-instruct-base-CLOSED.png,Falcon-H1-0.5B-Instruct,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-21-falcon-h1-1b-instruct-base-CLOSED.png,Falcon-H1-1B-Instruct,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-21-falcon-h1-34b-instruct-base-CLOSED.png,Falcon-H1-34B-Instruct,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-21-falcon-h1-7b-instruct-base-CLOSED.png,Falcon-H1-7B-Instruct,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-21-kanana-1-5-2-1b-instruct-2505-base-CLOSED.png,Kanana-1.5-2.1B-Instruct-2505,2025-05-21,4,CLOSED,1CLOSED
+4-other/2025-05-23-kanana-1-5-8b-instruct-2505-base-CLOSED.png,Kanana-1.5-8B-Instruct-2505,2025-05-23,4,CLOSED,1CLOSED
+4-other/2025-06-04-mimo-vl-7b-rl-base-CLOSED.png,MiMo-VL-7B-RL,2025-06-04,4,CLOSED,1CLOSED
+4-other/2025-06-10-magistral-medium-2506-base-CLOSED.png,Magistral-Medium-2506,2025-06-10,4,CLOSED,1CLOSED
+4-other/2025-07-10-devstral-medium-2507-base-CLOSED.png,Devstral-Medium-2507,2025-07-10,4,CLOSED,1CLOSED
+4-other/2025-07-28-grok-imagine-image-base-CLOSED.png,Grok Imagine Image,2025-07-28,4,CLOSED,1CLOSED
+4-other/2025-08-04-qwen-image-base-CLOSED.png,Qwen-Image,2025-08-04,4,CLOSED,1CLOSED
+4-other/2025-08-07-gpt-5-mini-base-CLOSED.png,GPT-5-mini,2025-08-07,4,CLOSED,1CLOSED
+4-other/2025-08-14-imagen-4-0-fast-base-CLOSED.png,Imagen-4.0-Fast,2025-08-14,4,CLOSED,1CLOSED
+4-other/2025-08-14-imagen-4-0-standard-base-CLOSED.png,Imagen-4.0-Standard,2025-08-14,4,CLOSED,1CLOSED
+4-other/2025-08-14-imagen-4-0-ultra-base-CLOSED.png,Imagen-4.0-Ultra,2025-08-14,4,CLOSED,1CLOSED
+4-other/2025-08-26-nano-banana-base-CLOSED.png,Nano-Banana,2025-08-26,4,CLOSED,1CLOSED
+4-other/2025-09-09-seedream-4-0-base-CLOSED.png,Seedream-4.0,2025-09-09,4,CLOSED,1CLOSED
+4-other/2025-09-19-ring-flash-2-0-base-CLOSED.png,Ring-flash-2.0,2025-09-19,4,CLOSED,1CLOSED
+4-other/2025-09-24-wan-2-5-t2i-preview-base-CLOSED.png,Wan-2.5-T2I-Preview,2025-09-24,4,CLOSED,1CLOSED
+4-other/2025-09-28-hunyuanimage-3-base-CLOSED.png,HunyuanImage-3,2025-09-28,4,CLOSED,1CLOSED
+4-other/2025-10-09-ling-1t-base-CLOSED.png,Ling-1T,2025-10-09,4,CLOSED,1CLOSED
+4-other/2025-10-14-ring-1t-base-CLOSED.png,Ring-1T,2025-10-14,4,CLOSED,1CLOSED
+4-other/2025-11-10-kat-coder-pro-v1-base-CLOSED.png,KAT-Coder-Pro-V1,2025-11-10,4,CLOSED,1CLOSED
+4-other/2025-11-18-gemini-3-base-CLOSED.png,Gemini 3,2025-11-18,4,CLOSED,1CLOSED
+4-other/2025-11-18-gemini-3-pro-base-CLOSED.png,Gemini 3 Pro,2025-11-18,4,CLOSED,1CLOSED
+4-other/2025-11-18-gemini-3-pro-preview-base-CLOSED.png,Gemini 3 Pro Preview,2025-11-18,4,CLOSED,1CLOSED
+4-other/2025-11-20-nano-banana-pro-base-CLOSED.png,Nano-Banana-Pro,2025-11-20,4,CLOSED,1CLOSED
+4-other/2025-11-25-flux-2-dev-base-CLOSED.png,FLUX.2-dev,2025-11-25,4,CLOSED,1CLOSED
+4-other/2025-12-02-nova-2-0-lite-base-CLOSED.png,Nova-2.0-Lite,2025-12-02,4,CLOSED,1CLOSED
+4-other/2025-12-03-seedream-4-5-base-CLOSED.png,Seedream-4.5,2025-12-03,4,CLOSED,1CLOSED
+4-other/2025-12-16-gpt-image-1-5-base-CLOSED.png,GPT-Image-1.5,2025-12-16,4,CLOSED,1CLOSED
+4-other/2025-12-31-k-exaone-base-CLOSED.png,K-EXAONE,2025-12-31,4,CLOSED,1CLOSED
+4-other/2026-01-13-step3-vl-10b-base-CLOSED.png,Step3-VL-10B,2026-01-13,4,CLOSED,1CLOSED
+4-other/2026-01-14-glm-image-base-CLOSED.png,GLM-Image,2026-01-14,4,CLOSED,1CLOSED
+4-other/2026-01-15-flux-2-klein-9b-base-CLOSED.png,FLUX.2-klein-9B,2026-01-15,4,CLOSED,1CLOSED
+4-other/2026-01-27-trinity-large-preview-base-CLOSED.png,Trinity-Large-Preview,2026-01-27,4,CLOSED,1CLOSED
+4-other/2026-03-09-grok-4-20-0309-base-CLOSED.png,Grok 4.20 0309,2026-03-09,4,CLOSED,1CLOSED
+4-other/2026-03-16-glm-5-turbo-base-CLOSED.png,GLM-5-Turbo,2026-03-16,4,CLOSED,1CLOSED
+4-other/2026-03-27-mimo-v2-omni-0327-base-CLOSED.png,MiMo-V2-Omni-0327,2026-03-27,4,CLOSED,1CLOSED
+4-other/2026-04-08-muse-spark-base-CLOSED.png,Muse Spark,2026-04-08,4,CLOSED,1CLOSED
+4-other/2026-04-20-qwen3-6-max-preview-base-CLOSED.png,Qwen3.6 Max Preview,2026-04-20,4,CLOSED,1CLOSED
+4-other/2026-05-20-qwen3-7-max-base-CLOSED.png,Qwen3.7 Max,2026-05-20,4,CLOSED,1CLOSED
+4-other/2026-06-01-qwen3-7-plus-base-CLOSED.png,Qwen3.7 Plus,2026-06-01,4,CLOSED,1CLOSED
+4-other/2026-06-03-nex-n2-pro-base-CLOSED.png,Nex-N2-Pro,2026-06-03,4,CLOSED,1CLOSED
+4-other/2026-06-04-nemotron-3-ultra-base-CLOSED.png,Nemotron 3 Ultra,2026-06-04,4,CLOSED,1CLOSED
+4-other/2026-07-06-hy3-base-CLOSED.png,Hy3,2026-07-06,4,CLOSED,1CLOSED
+4-other/2026-07-09-jt-4-1-flash-236b-a21b-base-CLOSED.png,JT-4.1 Flash 236B A21B,2026-07-09,4,CLOSED,1CLOSED
+4-other/2026-07-09-muse-spark-1-1-base-CLOSED.png,Muse Spark 1.1,2026-07-09,4,CLOSED,1CLOSED
+4-other/2026-07-24-agnes-2-5-pro-alpha-base-CLOSED.png,Agnes 2.5 Pro Alpha,2026-07-24,4,CLOSED,1CLOSED
+4-other/2026-07-30-thinking-machines-inkling-small.png,Inkling Small,2026-07-30,4,CLOSED,1CLOSED
+4-other/2026-08-11-solar-pro-4-base-CLOSED.png,Solar Pro 4,2026-08-11,4,CLOSED,1CLOSED
+4-other/2026-08-12-motif-3-base-CLOSED.png,Motif 3,2026-08-12,4,CLOSED,1CLOSED
+4-other/2026-08-24-apodex-1-1-base-CLOSED.png,Apodex 1.1,2026-08-24,4,CLOSED,1CLOSED
+4-other/2026-08-26-agnes-2-5-pro-beta-base-CLOSED.png,Agnes 2.5 Pro Beta,2026-08-26,4,CLOSED,1CLOSED
+4-other/2026-09-02-quasar-438b-base-CLOSED.png,Quasar 438B,2026-09-02,4,CLOSED,1CLOSED
+4-other/2026-09-03-k2-horizon-375b-a23b-base-CLOSED.png,K2 Horizon 375B A23B,2026-09-03,4,CLOSED,1CLOSED

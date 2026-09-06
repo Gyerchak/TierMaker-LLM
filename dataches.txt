@@ -1,0 +1,314 @@
+Agnes 2.5 Pro Alpha	2026-07-24
+Agnes 2.5 Pro Beta	2026-08-27
+Apodex 1.1	2026-08-24
+AuraFlow-v0.3	2024-08-14
+Aya-Expanse-32b	2024-10-24
+Aya-Expanse-8b	2024-10-24
+Bagel	2025-05-20
+Bielik-11B-v2-Instruct	2024-08-26
+Bielik-11B-v2.2-Instruct	2024-08-28
+Bielik-11B-v2.3-Instruct	2024-08-30
+Bielik-11B-v2.5-Instruct	2025-05-06
+Bielik-7B-Instruct-v0.1	2024-03-30
+C SD 3.5 Large	2024-10-22
+C4AI-Command-R-v01	2024-03-11
+Claude Fable 5	2026-06-09
+Claude Fable 5.1	2026-09-01
+Claude Haiku 4.5	2025-10-15
+Claude Opus 4.5	2025-11-24
+Claude Opus 4.6	2026-02-05
+Claude Opus 4.7	2026-04-16
+Claude Opus 4.8	2026-05-28
+Claude Opus 5	2026-07-24
+Claude Sonnet 4	2025-05-22
+Claude Sonnet 4.5	2025-09-29
+Claude Sonnet 4.6	2026-02-17
+Claude Sonnet 5	2026-06-30
+Code-Llama-13b-Instruct-hf	2023-08-24
+Code-Llama-34b-Instruct-hf	2023-08-24
+Code-Llama-70b-Instruct-hf	2024-01-29
+Code-Llama-7b-Instruct-hf	2023-08-24
+Codestral-22B-v0.1	2024-05-29
+Codestral-2405	2024-05-29
+Command-A-03-2025	2025-03-13
+Command-R-08-2024	2024-08-30
+Command-R-Plus-08-2024	2024-08-30
+Command-R7B-12-2024	2024-12-13
+DALL-E 3	2023-09-20
+DeepSeek V4 Flash	2026-07-31
+DeepSeek V4 Flash Vision Exp	2026-08-21
+DeepSeek V4 Pro	2026-08-13
+DeepSeek V4 Pro 0813	2026-08-13
+DeepSeek-Coder-V2-Instruct	2024-08-21
+DeepSeek-Coder-V2-Lite-Instruct	2024-07-03
+DeepSeek-LLM-67B-Chat	2023-11-29
+DeepSeek-R1	2025-05-29
+DeepSeek-R1-Distill-Llama-70B	2025-05-10
+DeepSeek-R1-Distill-Llama-8B	2025-02-24
+DeepSeek-R1-Distill-Qwen-1.5B	2025-02-24
+DeepSeek-R1-Distill-Qwen-14B	2025-02-24
+DeepSeek-R1-Distill-Qwen-32B	2025-02-24
+DeepSeek-R1-Distill-Qwen-7B	2025-02-24
+DeepSeek-R1-Zero	2025-01-20
+DeepSeek-V2	2024-06-08
+DeepSeek-V2.5	2024-09-05
+DeepSeek-V3	2025-12-01
+DeepSeek-V3-0324	2025-03-27
+DeepSeek-VL2-small	2024-12-13
+Devstral-Medium-2507	2025-07-10
+Devstral-Small-2505	2025-05-21
+EXAONE-3.5-2.4B-Instruct	2026-02-06
+EXAONE-3.5-32B-Instruct	2026-02-06
+EXAONE-3.5-7B-Instruct	2024-12-09
+EXAONE-Deep-2.4B	2025-03-18
+EXAONE-Deep-32B	2025-03-18
+EXAONE-Deep-7B	2025-03-18
+EuroLLM-9B-Instruct	2026-07-31
+FLUX.1-Kontext-dev	2026-01-01
+FLUX.1-dev	2025-06-27
+FLUX.1-schnell	2024-08-16
+FLUX.2-dev	2025-11-25
+FLUX.2-klein-4B	2026-02-24
+FLUX.2-klein-9B	2026-01-15
+Falcon-H1-0.5B-Instruct	2025-05-21
+Falcon-H1-1B-Instruct	2025-05-21
+Falcon-H1-34B-Instruct	2025-05-21
+Falcon-H1-7B-Instruct	2025-05-21
+Falcon3-10B-Instruct	2024-12-17
+Falcon3-1B-Instruct	2024-12-17
+Falcon3-3B-Instruct	2024-12-17
+Falcon3-7B-Instruct	2024-12-17
+GLM 5	2026-08-11
+GLM 5.1	2026-04-16
+GLM 5.2	2026-06-16
+GLM 5.3	2026-08-14
+GLM 5.3 Flash	2026-08-26
+GLM-4.5-Air	2025-08-11
+GLM-4.5V	2025-12-23
+GLM-4.6V	2025-12-08
+GLM-5-Turbo	2026-03-16
+GLM-Image	2026-01-14
+GPT 5	2025-08-07
+GPT 5 Codex	2025-09-15
+GPT 5 Nano	2025-08-07
+GPT 5.1	2025-11-12
+GPT 5.1 Codex	2025-11-12
+GPT 5.1 Codex Max	2025-11-19
+GPT 5.1 Codex Mini	2025-11-13
+GPT 5.2	2025-12-11
+GPT 5.2 Codex	2025-12-18
+GPT 5.3 Codex	2026-02-05
+GPT 5.3 Codex Spark	2026-02-12
+GPT 5.4	2026-03-05
+GPT 5.4 Mini	2026-03-17
+GPT 5.4 Nano	2026-03-17
+GPT 5.4 Pro	2026-03-05
+GPT 5.5	2026-04-23
+GPT 5.5 Pro	2026-04-23
+GPT 5.6 Luna	2026-07-09
+GPT 5.6 Sol	2026-07-09
+GPT 5.6 Terra	2026-07-09
+GPT 6 Astra	2026-09-03
+GPT-5-mini	2025-08-07
+GPT-Image-1	2025-04-23
+GPT-Image-1.5	2025-12-16
+GPT-OSS-120B	2025-08-26
+GPT-OSS-20B	2025-08-26
+Gemini 3	2025-11-18
+Gemini 3 Flash	2025-12-17
+Gemini 3 Pro	2025-11-18
+Gemini 3 Pro Preview	2025-11-18
+Gemini 3.5 Flash Lite	2026-07-21
+Gemini 3.6 Flash	2026-07-21
+Gemini 3.7 Flash	2026-08-13
+Gemini 3.8 Flash	2026-09-02
+Gemma-2-27b-it	2024-08-27
+Gemma-2-2b-it	2026-07-20
+Gemma-2-9b-it	2024-08-27
+Gemma-3-12b-it	2025-03-21
+Gemma-3-1b-it	2025-04-04
+Gemma-3-27b-it	2025-03-21
+Gemma-3-4b-it	2025-03-21
+Gemma-3n-E2B-it	2025-07-14
+Gemma-3n-E4B-it	2025-07-11
+Grok 4.20 0309	2026-03-09
+Grok 4.5	2026-07-08
+Grok 4.6	2026-08-12
+Grok Imagine Image	2025-07-28
+HiDream-E1-Full	2025-04-28
+HiDream-I1-Dev	2025-04-08
+HiDream-I1-Full	2025-04-07
+HunyuanImage-3	2025-09-28
+Hy3	2026-07-06
+HyperCLOVA-X-SEED-Text-Instruct-0.5B	2025-04-24
+HyperCLOVA-X-SEED-Text-Instruct-3B	2025-04-24
+Ideogram-3.0	2025-03-26
+Imagen-4.0-Fast	2025-08-14
+Imagen-4.0-Standard	2025-08-14
+Imagen-4.0-Ultra	2025-08-14
+Inkling Small	2026-07-30
+JT-4.1 Flash 236B A21B	2026-07-09
+Janus-Pro-7B	2025-01-27
+K-EXAONE	2025-12-31
+K2 Horizon 375B A23B	2026-09-03
+KAT-Coder-Pro-V1	2025-11-10
+Kanana-1.5-2.1B-Instruct-2505	2025-05-23
+Kanana-1.5-8B-Instruct-2505	2025-05-23
+Kanana-Nano-2.1B-Base	2025-02-27
+Kimi K2.5	2026-04-30
+Kimi K2.6	2026-05-19
+Kimi K2.7 Code	2026-06-19
+Kimi K3	2026-07-16
+Kimi-Linear-48B-A3B-Instruct	2025-12-16
+Kolors-2.0	2025-04-15
+Ling 3.0 Flash Fin Free	2026-07-23
+Ling-1T	2025-10-09
+Llama-3-70b-chat-hf	2024-04-18
+Llama-3-8b-chat-hf	2024-04-18
+Llama-3.1-405B-Instruct	2024-07-29
+Llama-3.1-70B-Instruct	2024-12-15
+Llama-3.1-8B-Instruct	2024-09-25
+Llama-3.2-11B-Vision-Instruct	2024-12-04
+Llama-3.2-1B-Instruct	2024-10-24
+Llama-3.2-3B-Instruct	2024-10-24
+Llama-3.2-90B-Vision-Instruct	2025-03-04
+Llama-3.3-70B-Instruct	2024-12-21
+Lumina-Image-2.0	2025-01-25
+Magistral-Medium-2506	2025-06-10
+Magistral-Small-2506	2025-07-28
+Mathstral-7B-v0.1	2024-07-16
+MiMo-7B-RL	2025-06-05
+MiMo-V2-Omni-0327	2026-03-27
+MiMo-V2.5	2026-07-09
+MiMo-V2.5-Pro	2026-07-09
+MiMo-VL-7B-RL	2025-06-04
+MiniMax M2.5	2026-02-12
+MiniMax M2.7	2026-04-20
+MiniMax M3	2026-07-11
+Ministral-3B-Instruct	2026-07-15
+Ministral-8B-Instruct-2410	2025-07-31
+Mistral-7B-Instruct-v0.1	2025-07-24
+Mistral-7B-Instruct-v0.2	2025-07-24
+Mistral-7B-Instruct-v0.3	2025-12-03
+Mistral-Large-Instruct-2407	2024-07-24
+Mistral-Large-Instruct-2411	2024-11-20
+Mistral-Medium-2505	2025-05-07
+Mistral-Small-3.1-24B-Instruct-2503	2025-12-22
+Mistral-Small-Instruct-2409	2025-01-01
+Mixtral-8x22B-Instruct-v0.1	2025-07-24
+Mixtral-8x7B-Instruct-v0.1	2025-07-24
+Motif 3	2026-08-12
+Muse Spark	2026-04-08
+Muse Spark 1.1	2026-07-09
+Muse Spark 1.2	2026-08-05
+Muse Spark 1.3	2026-09-02
+Nano-Banana	2025-08-26
+Nano-Banana-Pro	2025-11-20
+Nemotron 3 Ultra	2026-06-04
+Nemotron 3.5 Lightning Free	2026-08-11
+Nex-N2-Pro	2026-06-02
+Nova-2.0-Lite	2025-12-02
+OLMo-2-0325-32B-Instruct	2025-03-14
+OLMo-2-1124-13B-Instruct	2024-11-26
+OLMo-2-1124-7B-Instruct	2025-01-06
+OLMoE-1B-7B-0924-Instruct	2024-09-03
+Open-Mistral-7B	2023-09-27
+Open-Mixtral-8x22B	2024-04-17
+Open-Mixtral-8x7B	2023-12-11
+OpenChat-3.5-0106	2024-01-06
+Phi-3-medium-128k-instruct	2025-12-10
+Phi-3-mini-128k-instruct	2025-12-10
+Phi-3-small-128k-instruct	2024-05-21
+Phi-3.5-MoE-instruct	2025-12-10
+Phi-3.5-mini-instruct	2025-12-10
+Phi-4	2026-07-14
+Phi-4-mini-instruct	2025-12-10
+Phi-4-multimodal-instruct	2025-02-26
+Phi-4-reasoning	2025-12-10
+Phi-4-reasoning-plus	2025-05-01
+PixArt-Sigma-XL-2-1024-MS	2024-04-09
+Pixtral-Large-Instruct-2411	2024-11-18
+Quasar 438B	2026-09-02
+Qwen-14B-Chat	2023-09-25
+Qwen-72B-Chat	2023-11-30
+Qwen-7B-Chat	2024-03-19
+Qwen-Image	2025-08-04
+Qwen-Image-2512	2026-01-06
+Qwen-Image-Edit-2509	2025-09-22
+Qwen-Image-Layered	2025-12-19
+Qwen1.5-0.5B-Chat	2024-04-30
+Qwen1.5-1.8B-Chat	2024-04-30
+Qwen1.5-110B-Chat	2024-04-25
+Qwen1.5-14B-Chat	2024-02-04
+Qwen1.5-32B-Chat	2024-04-30
+Qwen1.5-4B-Chat	2024-02-04
+Qwen1.5-72B-Chat	2024-02-04
+Qwen1.5-7B-Chat	2024-04-30
+Qwen2-1.5B-Instruct	2024-06-06
+Qwen2-72B-Instruct	2024-10-08
+Qwen2-7B-Instruct	2024-08-21
+Qwen2-Audio-7B-Instruct	2025-01-12
+Qwen2.5-0.5B-Instruct	2024-09-25
+Qwen2.5-1.5B-Instruct	2024-09-25
+Qwen2.5-14B-Instruct	2024-09-25
+Qwen2.5-32B-Instruct	2024-09-25
+Qwen2.5-3B-Instruct	2024-09-25
+Qwen2.5-72B-Instruct	2025-01-12
+Qwen2.5-7B-Instruct	2025-01-12
+Qwen2.5-Coder-0.5B-Instruct	2024-11-18
+Qwen2.5-Coder-1.5B-Instruct	2025-01-12
+Qwen2.5-Coder-14B-Instruct	2025-01-12
+Qwen2.5-Coder-32B-Instruct	2025-01-12
+Qwen2.5-Coder-3B-Instruct	2025-01-12
+Qwen2.5-Coder-7B-Instruct	2025-01-12
+Qwen2.5-Max	2025-01-28
+Qwen2.5-Omni-7B	2025-04-30
+Qwen2.5-VL-3B-Instruct	2025-04-06
+Qwen2.5-VL-72B-Instruct	2025-06-06
+Qwen2.5-VL-7B-Instruct	2025-04-06
+Qwen3-235B-A22B-2507	2025-09-17
+Qwen3-30B-A3B-2507	2025-07-31
+Qwen3-32B	2025-07-26
+Qwen3-4B-2507	2025-09-17
+Qwen3.5 Plus	2026-02-16
+Qwen3.6 Max Preview	2026-04-02
+Qwen3.6 Plus	2026-04-02
+Qwen3.7 Max	2026-05-20
+Qwen3.7 Plus	2026-05-31
+Qwen3.8 2.4T A95B	2026-08-12
+Qwen3.8 27B	2026-08-20
+Qwen3.8 Max	2026-08-23
+Qwen3.8-Flash-Next	2026-09-02
+Recraft-V3	2024-10-30
+Ring-1T	2025-10-14
+Ring-flash-2.0	2025-09-29
+SD3-Medium	2024-06-12
+SDXL-Turbo	2024-07-10
+SOLAR-10.7B-Instruct-v1.0	2023-12-13
+Salamandra-7b-instruct	2024-09-30
+Sana-1.5-4.8B-2560px	2025-03-16
+Sana-Sprint-1.6B-1024px	2025-03-21
+Seed-OSS-36B-Instruct	2025-08-26
+Seedream-4.0	2025-09-09
+Seedream-4.5	2025-12-03
+SmolLM-1.7B	2024-07-16
+SmolLM2-1.7B	2025-02-06
+SmolLM2-135M	2025-02-06
+SmolLM2-360M	2025-02-06
+SmolLM3-3B	2025-08-14
+SmolVLM-Instruct	2025-04-08
+Solar Pro 4	2026-08-11
+Solar-Pro-Preview-Instruct	2024-09-13
+Stable-Diffusion-1.5	2022-10-20
+Stable-Diffusion-3.5-Medium	2024-10-31
+Stable-Diffusion-XL-Base-1.0	2023-10-30
+StarCoder2-15B	2024-02-28
+Starling-LM-7B-beta	2024-03-19
+Step3-VL-10B	2026-01-20
+Teuken-7B-instruct-research-v0.4	2024-11-27
+Trinity-Large-Preview	2026-01-27
+Tulu-3-405B	2025-01-30
+Tulu-3-70B	2024-11-21
+Tulu-3-8B	2024-11-21
+Wan-2.5-T2I-Preview	2025-09-24
+Zephyr-7b-beta	2023-10-25

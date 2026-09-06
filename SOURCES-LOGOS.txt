@@ -1,0 +1,691 @@
+TIER LIST TEMPLATE — LOGO SOURCES (attribution)
+TOP=company (merged = 'A + B'), MIDDLE=official-color logo, BOTTOM=model
+Logos are official marks colored to each company's brand colors; rights to owners.
+============================================================================================
+
+UNIQUE SOURCE LINKS
+https://agnes-ai.com
+https://ai.meta.com/llama/
+https://allenai.org
+https://aws.amazon.com/ai/generative-ai/
+https://bielik.ai
+https://blackforestlabs.ai
+https://cohere.com
+https://deepmind.google/models/gemini/
+https://eurollm.eu
+https://falconllm.tii.ae
+https://github.com/Alpha-VLLM/Lumina-Image-2.0
+https://github.com/Kwai-Kolors
+https://huggingface.co
+https://huggingface.co/HiDream-ai
+https://huggingface.co/IFM
+https://huggingface.co/Motif-Technologies
+https://huggingface.co/PixArt-alpha
+https://huggingface.co/apodex
+https://huggingface.co/fal
+https://huggingface.co/kakaocorp
+https://huggingface.co/models
+https://huggingface.co/openGPT-X
+https://huggingface.co/openchat
+https://huggingface.co/stepfun-ai
+https://hunyuan.tencent.com
+https://iconlogovector.com/logo/starling-bank
+https://ideogram.ai
+https://inclusion-ai.org
+https://mistral.ai
+https://multiversecomputing.com
+https://nexusflow.ai
+https://openai.com/brand/
+https://qwenlm.github.io/
+https://sakana.ai
+https://seeklogo.com/free-vector-logos/thinking-machines
+https://stability.ai
+https://www.alibaba.com
+https://www.antgroup.com
+https://www.bsc.es/discover-bsc/brand-and-logo
+https://www.bytedance.com
+https://www.chinamobileltd.com
+https://www.deepseek.com
+https://www.lgresearch.ai
+https://www.mi.com
+https://www.microsoft.com
+https://www.minimax.io
+https://www.moonshot.ai
+https://www.navercorp.com
+https://www.nvidia.com
+https://www.recraft.ai
+https://www.softwareheritage.org/software-heritage-communication-kit/
+https://www.upstage.ai
+https://www.z.ai
+https://x.ai
+============================================================================================
+# Claude Sonnet 4
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Sonnet 4
+# GPT 5
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5
+# GPT 5 Nano
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5 Nano
+# GPT 5 Codex
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5 Codex
+# Claude Sonnet 4.5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Sonnet 4.5
+# Claude Haiku 4.5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Haiku 4.5
+# GPT 5.1
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.1
+# GPT 5.1 Codex
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.1 Codex
+# GPT 5.1 Codex Mini
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.1 Codex Mini
+# GPT 5.1 Codex Max
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.1 Codex Max
+# Claude Opus 4.5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Opus 4.5
+# GPT 5.2
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.2
+# Gemini 3 Flash
+  folder: 0-opencode | TOP: Gemini | MID: gemini | BOTTOM: 3 Flash
+# GPT 5.2 Codex
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.2 Codex
+# Kimi K2.5
+  folder: 3-open | TOP: Moonshot | MID: moonshot | BOTTOM: Kimi K2.5
+# Claude Opus 4.6
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Opus 4.6
+# GPT 5.3 Codex
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.3 Codex
+# GLM 5
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM 5
+# GPT 5.3 Codex Spark
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.3 Codex Spark
+# MiniMax M2.5
+  folder: 0-opencode | TOP: MiniMax | MID: minimax | BOTTOM: M2.5
+# Qwen3.5 Plus
+  folder: 0-opencode | TOP: Qwen | MID: qwen | BOTTOM: 3.5 Plus
+# Claude Sonnet 4.6
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Sonnet 4.6
+# GPT 5.4
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.4
+# GPT 5.4 Pro
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.4 Pro
+# GPT 5.4 Mini
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.4 Mini
+# GPT 5.4 Nano
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.4 Nano
+# MiniMax M2.7
+  folder: 3-open | TOP: MiniMax | MID: minimax | BOTTOM: M2.7
+# Qwen3.6 Plus
+  folder: 0-opencode | TOP: Qwen | MID: qwen | BOTTOM: 3.6 Plus
+# GLM 5.1
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM 5.1
+# Claude Opus 4.7
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Opus 4.7
+# Kimi K2.6
+  folder: 3-open | TOP: Moonshot | MID: moonshot | BOTTOM: Kimi K2.6
+# GPT 5.5
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.5
+# GPT 5.5 Pro
+  folder: 0-opencode | TOP: OpenAI | MID: openai | BOTTOM: GPT 5.5 Pro
+# Claude Opus 4.8
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Opus 4.8
+# MiniMax M3
+  folder: 3-open | TOP: MiniMax | MID: minimax | BOTTOM: M3
+# Claude Fable 5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Fable 5
+# Kimi K2.7 Code
+  folder: 3-open | TOP: Moonshot | MID: moonshot | BOTTOM: Kimi K2.7 Code
+# GLM 5.2
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM 5.2
+# Claude Sonnet 5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Sonnet 5
+# Grok 4.5
+  folder: 0-opencode | TOP: xAI | MID: xai | BOTTOM: Grok 4.5
+# GPT 5.6 Luna
+  folder: 0-opencode | TOP: GPT-5.6 Luna | MID: gpt-luna | BOTTOM: GPT 5.6 Luna
+# GPT 5.6 Sol
+  folder: 0-opencode | TOP: GPT-5.6 Sol | MID: gpt-sol | BOTTOM: GPT 5.6 Sol
+# GPT 5.6 Terra
+  folder: 0-opencode | TOP: GPT-5.6 Terra | MID: gpt-terra | BOTTOM: GPT 5.6 Terra
+# Kimi K3
+  folder: 0-opencode | TOP: Moonshot | MID: moonshot | BOTTOM: Kimi K3
+# Gemini 3.5 Flash Lite
+  folder: 0-opencode | TOP: Gemini | MID: gemini | BOTTOM: 3.5 Flash Lite
+# Gemini 3.6 Flash
+  folder: 0-opencode | TOP: Gemini | MID: gemini | BOTTOM: 3.6 Flash
+# Claude Opus 5
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Opus 5
+# DeepSeek V4 Flash
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V4 Flash
+# Muse Spark 1.2
+  folder: 0-opencode | TOP: Meta | MID: meta | BOTTOM: Muse Spark 1.2
+# Nemotron 3.5 Lightning Free
+  folder: 0-opencode | TOP: NVIDIA | MID: nvidia | BOTTOM: Nemotron 3.5 Lightning Free
+# Grok 4.6
+  folder: 0-opencode | TOP: xAI | MID: xai | BOTTOM: Grok 4.6
+# DeepSeek V4 Pro
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V4 Pro
+# Gemini 3.7 Flash
+  folder: 0-opencode | TOP: Gemini | MID: gemini | BOTTOM: 3.7 Flash
+# GLM 5.3
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM 5.3
+# DeepSeek V4 Flash Vision Exp
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V4 Flash Vision Exp
+# GLM 5.3 Flash
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM 5.3 Flash
+# Ling 3.0 Flash Fin Free
+  folder: 0-opencode | TOP: Ant Group | MID: ant | BOTTOM: Ling 3.0 Flash Fin Free
+# Claude Fable 5.1
+  folder: 0-opencode | TOP: Claude | MID: claude | BOTTOM: Fable 5.1
+# Gemini 3.8 Flash
+  folder: 0-opencode | TOP: Gemini | MID: gemini | BOTTOM: 3.8 Flash
+# Muse Spark 1.3
+  folder: 0-opencode | TOP: Meta | MID: meta | BOTTOM: Muse Spark 1.3
+# GPT 6 Astra
+  folder: 0-opencode | TOP: GPT-6 Astra | MID: gpt-astra | BOTTOM: GPT 6 Astra
+# Stable-Diffusion-XL-Base-1.0
+  folder: 1-anyone | TOP: Stability | MID: stability | BOTTOM: Stable-Diffusion-XL-Base-1.0
+# Qwen-7B-Chat
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 7B-Chat
+# Mistral-7B-Instruct-v0.1
+  folder: 1-anyone | TOP: Mistral | MID: mistral | BOTTOM: 7B-Instruct-v0.1
+# SDXL-Turbo
+  folder: 1-anyone | TOP: Stability | MID: stability | BOTTOM: SDXL-Turbo
+# Mistral-7B-Instruct-v0.2
+  folder: 1-anyone | TOP: Mistral | MID: mistral | BOTTOM: 7B-Instruct-v0.2
+# Qwen1.5-7B-Chat
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 1.5-7B-Chat
+# Qwen1.5-0.5B-Chat
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 1.5-0.5B-Chat
+# Qwen1.5-1.8B-Chat
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 1.5-1.8B-Chat
+# Phi-3-mini-128k-instruct
+  folder: 1-anyone | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-3-mini-128k-instruct
+# Mistral-7B-Instruct-v0.3
+  folder: 1-anyone | TOP: Mistral | MID: mistral | BOTTOM: 7B-Instruct-v0.3
+# Qwen2-7B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2-7B-Instruct
+# Qwen2-1.5B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2-1.5B-Instruct
+# Gemma-2-9b-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-2-9b-it
+# Llama-3.1-8B-Instruct
+  folder: 1-anyone | TOP: Meta | MID: meta | BOTTOM: Llama-3.1-8B-Instruct
+# Gemma-2-2b-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-2-2b-it
+# FLUX.1-dev
+  folder: 1-anyone | TOP: BFL | MID: black-forest | BOTTOM: FLUX.1-dev
+# FLUX.1-schnell
+  folder: 1-anyone | TOP: BFL | MID: black-forest | BOTTOM: FLUX.1-schnell
+# Qwen2-Audio-7B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2-Audio-7B-Instruct
+# Phi-3.5-mini-instruct
+  folder: 1-anyone | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-3.5-mini-instruct
+# Qwen2.5-0.5B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-0.5B-Instruct
+# Qwen2.5-1.5B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-1.5B-Instruct
+# Qwen2.5-3B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-3B-Instruct
+# Qwen2.5-7B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-7B-Instruct
+# Qwen2.5-Coder-1.5B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-1.5B-Instruct
+# Qwen2.5-Coder-7B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-7B-Instruct
+# Llama-3.2-11B-Vision-Instruct
+  folder: 1-anyone | TOP: Meta | MID: meta | BOTTOM: Llama-3.2-11B-Vision-Instruct
+# Llama-3.2-1B-Instruct
+  folder: 1-anyone | TOP: Meta | MID: meta | BOTTOM: Llama-3.2-1B-Instruct
+# Llama-3.2-3B-Instruct
+  folder: 1-anyone | TOP: Meta | MID: meta | BOTTOM: Llama-3.2-3B-Instruct
+# Ministral-3B-Instruct
+  folder: 1-anyone | TOP: Mistral | MID: mistral | BOTTOM: Ministral-3B-Instruct
+# Ministral-8B-Instruct-2410
+  folder: 1-anyone | TOP: Mistral | MID: mistral | BOTTOM: Ministral-8B-Instruct-2410
+# Stable-Diffusion-3.5-Medium
+  folder: 1-anyone | TOP: Stability | MID: stability | BOTTOM: Stable-Diffusion-3.5-Medium
+# SmolLM2-135M
+  folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolLM2-135M
+# SmolLM2-1.7B
+  folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolLM2-1.7B
+# SmolLM2-360M
+  folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolLM2-360M
+# Qwen2.5-Coder-0.5B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-0.5B-Instruct
+# Qwen2.5-Coder-3B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-3B-Instruct
+# SmolVLM-Instruct
+  folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolVLM-Instruct
+# EXAONE-3.5-2.4B-Instruct
+  folder: 1-anyone | TOP: LG | MID: lg | BOTTOM: EXAONE-3.5-2.4B-Instruct
+# EuroLLM-9B-Instruct
+  folder: 1-anyone | TOP: EuroLLM | MID: eurollm | BOTTOM: 9B Instruct
+# OLMo-2-1124-7B-Instruct
+  folder: 1-anyone | TOP: Ai2 | MID: ai2 | BOTTOM: OLMo-2-1124-7B-Instruct
+# DeepSeek-R1
+  folder: 1-anyone | TOP: DeepSeek | MID: deepseek | BOTTOM: R1
+# DeepSeek-R1-Distill-Llama-8B
+  folder: 1-anyone | TOP: DeepSeek + Meta | MID: deepseek + meta | BOTTOM: DeepSeek-R1-Distill-Llama-8B
+# DeepSeek-R1-Distill-Qwen-1.5B
+  folder: 1-anyone | TOP: DeepSeek + Qwen | MID: deepseek + qwen | BOTTOM: DeepSeek-R1-Distill-Qwen-1.5B
+# DeepSeek-R1-Distill-Qwen-7B
+  folder: 1-anyone | TOP: DeepSeek + Qwen | MID: deepseek + qwen | BOTTOM: DeepSeek-R1-Distill-Qwen-7B
+# Qwen2.5-VL-7B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-VL-7B-Instruct
+# Qwen2.5-VL-3B-Instruct
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-VL-3B-Instruct
+# Phi-4-mini-instruct
+  folder: 1-anyone | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-4-mini-instruct
+# Gemma-3-1b-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-3-1b-it
+# Gemma-3-4b-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-3-4b-it
+# Qwen2.5-Omni-7B
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Omni-7B
+# Phi-4-reasoning
+  folder: 1-anyone | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-4-reasoning
+# MiMo-7B-RL
+  folder: 1-anyone | TOP: Xiaomi | MID: xiaomi-mimo | BOTTOM: MiMo-7B-RL
+# FLUX.1-Kontext-dev
+  folder: 1-anyone | TOP: BFL | MID: black-forest | BOTTOM: FLUX.1-Kontext-dev
+# Gemma-3n-E4B-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-3n-E4B-it
+# SmolLM3-3B
+  folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolLM3-3B
+# Gemma-3n-E2B-it
+  folder: 1-anyone | TOP: Google | MID: google | BOTTOM: Gemma-3n-E2B-it
+# Qwen3-4B-2507
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 3-4B-2507
+# FLUX.2-klein-4B
+  folder: 1-anyone | TOP: BFL | MID: black-forest | BOTTOM: FLUX.2-klein-4B
+# Qwen3.8 27B
+  folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 3.8 27B
+# Mixtral-8x7B-Instruct-v0.1
+  folder: 2-hobbyst | TOP: Mistral | MID: mistral | BOTTOM: Mixtral-8x7B-Instruct-v0.1
+# Qwen1.5-32B-Chat
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 1.5-32B-Chat
+# Phi-3-medium-128k-instruct
+  folder: 2-hobbyst | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-3-medium-128k-instruct
+# DeepSeek-Coder-V2-Lite-Instruct
+  folder: 2-hobbyst | TOP: DeepSeek | MID: deepseek | BOTTOM: Coder-V2-Lite-Instruct
+# Gemma-2-27b-it
+  folder: 2-hobbyst | TOP: Google | MID: google | BOTTOM: Gemma-2-27b-it
+# Phi-3.5-MoE-instruct
+  folder: 2-hobbyst | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-3.5-MoE-instruct
+# Qwen2.5-14B-Instruct
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 2.5-14B-Instruct
+# Qwen2.5-32B-Instruct
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 2.5-32B-Instruct
+# Qwen2.5-Coder-14B-Instruct
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-14B-Instruct
+# Qwen2.5-Coder-32B-Instruct
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-32B-Instruct
+# EXAONE-3.5-32B-Instruct
+  folder: 2-hobbyst | TOP: LG | MID: lg | BOTTOM: EXAONE-3.5-32B-Instruct
+# Phi-4
+  folder: 2-hobbyst | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-4
+# DeepSeek-R1-Distill-Qwen-14B
+  folder: 2-hobbyst | TOP: DeepSeek + Qwen | MID: deepseek + qwen | BOTTOM: DeepSeek-R1-Distill-Qwen-14B
+# DeepSeek-R1-Distill-Qwen-32B
+  folder: 2-hobbyst | TOP: DeepSeek + Qwen | MID: deepseek + qwen | BOTTOM: DeepSeek-R1-Distill-Qwen-32B
+# Gemma-3-12b-it
+  folder: 2-hobbyst | TOP: Google | MID: google | BOTTOM: Gemma-3-12b-it
+# Gemma-3-27b-it
+  folder: 2-hobbyst | TOP: Google | MID: google | BOTTOM: Gemma-3-27b-it
+# OLMo-2-0325-32B-Instruct
+  folder: 2-hobbyst | TOP: Ai2 | MID: ai2 | BOTTOM: OLMo-2-0325-32B-Instruct
+# Mistral-Small-3.1-24B-Instruct-2503
+  folder: 2-hobbyst | TOP: Mistral | MID: mistral | BOTTOM: Small-3.1-24B-Instruct-2503
+# Phi-4-reasoning-plus
+  folder: 2-hobbyst | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-4-reasoning-plus
+# Qwen3-32B
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: 3-32B
+# Magistral-Small-2506
+  folder: 2-hobbyst | TOP: Mistral | MID: mistral | BOTTOM: Magistral-Small-2506
+# GPT-OSS-20B
+  folder: 2-hobbyst | TOP: OpenAI | MID: openai | BOTTOM: GPT-OSS-20B
+# Seed-OSS-36B-Instruct
+  folder: 2-hobbyst | TOP: ByteDance | MID: bytedance | BOTTOM: Seed-OSS-36B-Instruct
+# Qwen-Image-Edit-2509
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: Image-Edit-2509
+# Kimi-Linear-48B-A3B-Instruct
+  folder: 2-hobbyst | TOP: Moonshot | MID: moonshot | BOTTOM: Kimi-Linear-48B-A3B-Instruct
+# Qwen-Image-Layered
+  folder: 2-hobbyst | TOP: Qwen | MID: qwen | BOTTOM: Image-Layered
+# Mixtral-8x22B-Instruct-v0.1
+  folder: 3-open | TOP: Mistral | MID: mistral | BOTTOM: Mixtral-8x22B-Instruct-v0.1
+# DeepSeek-V2
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V2
+# Qwen2-72B-Instruct
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 2-72B-Instruct
+# DeepSeek-Coder-V2-Instruct
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: Coder-V2-Instruct
+# Mathstral-7B-v0.1
+  folder: 3-open | TOP: Mistral | MID: mistral | BOTTOM: Mathstral-7B-v0.1
+# Llama-3.1-405B-Instruct
+  folder: 3-open | TOP: Meta | MID: meta | BOTTOM: Llama-3.1-405B-Instruct
+# Llama-3.1-70B-Instruct
+  folder: 3-open | TOP: Meta | MID: meta | BOTTOM: Llama-3.1-70B-Instruct
+# Solar-Pro-Preview-Instruct
+  folder: 3-open | TOP: Upstage | MID: upstage | BOTTOM: Solar-Pro-Preview-Instruct
+# Mistral-Small-Instruct-2409
+  folder: 3-open | TOP: Mistral | MID: mistral | BOTTOM: Small-Instruct-2409
+# Qwen2.5-72B-Instruct
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 2.5-72B-Instruct
+# Llama-3.2-90B-Vision-Instruct
+  folder: 3-open | TOP: Meta | MID: meta | BOTTOM: Llama-3.2-90B-Vision-Instruct
+# Mistral-Large-Instruct-2411
+  folder: 3-open | TOP: Mistral | MID: mistral | BOTTOM: Large-Instruct-2411
+# Llama-3.3-70B-Instruct
+  folder: 3-open | TOP: Meta | MID: meta | BOTTOM: Llama-3.3-70B-Instruct
+# DeepSeek-V3
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V3
+# DeepSeek-R1-Distill-Llama-70B
+  folder: 3-open | TOP: DeepSeek + Meta | MID: deepseek + meta | BOTTOM: DeepSeek-R1-Distill-Llama-70B
+# Qwen2.5-VL-72B-Instruct
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 2.5-VL-72B-Instruct
+# DeepSeek-V3-0324
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V3-0324
+# Qwen3-235B-A22B-2507
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 3-235B-A22B-2507
+# GLM-4.5-Air
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM-4.5-Air
+# Qwen3-30B-A3B-2507
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 3-30B-A3B-2507
+# GPT-OSS-120B
+  folder: 3-open | TOP: OpenAI | MID: openai | BOTTOM: GPT-OSS-120B
+# GLM-4.5V
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM-4.5V
+# GLM-4.6V
+  folder: 3-open | TOP: Z.ai | MID: zai | BOTTOM: GLM-4.6V
+# Qwen-Image-2512
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: Image-2512
+# MiMo-V2.5
+  folder: 3-open | TOP: Xiaomi | MID: xiaomi-mimo | BOTTOM: MiMo-V2.5
+# MiMo-V2.5-Pro
+  folder: 3-open | TOP: Xiaomi | MID: xiaomi-mimo | BOTTOM: MiMo-V2.5-Pro
+# Qwen3.8 Max
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 3.8 Max
+# Qwen3.8 2.4T A95B
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 3.8 2.4T A95B
+# DeepSeek V4 Pro 0813
+  folder: 3-open | TOP: DeepSeek | MID: deepseek | BOTTOM: V4 Pro 0813
+# Qwen3.8-Flash-Next
+  folder: 3-open | TOP: Qwen | MID: qwen | BOTTOM: 3.8-Flash-Next
+# Stable-Diffusion-1.5
+  folder: 4-other | TOP: Stability | MID: stability | BOTTOM: Stable-Diffusion-1.5
+# Code-Llama-13b-Instruct-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Code-Llama-13b-Instruct-hf
+# Code-Llama-34b-Instruct-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Code-Llama-34b-Instruct-hf
+# Code-Llama-7b-Instruct-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Code-Llama-7b-Instruct-hf
+# DALL-E 3
+  folder: 4-other | TOP: OpenAI | MID: openai | BOTTOM: DALL-E 3
+# Qwen-14B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 14B-Chat
+# Open-Mistral-7B
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Open-Mistral-7B
+# Zephyr-7b-beta
+  folder: 4-other | TOP: HuggingFace | MID: hugging-face | BOTTOM: Zephyr-7b-beta
+# DeepSeek-LLM-67B-Chat
+  folder: 4-other | TOP: DeepSeek | MID: deepseek | BOTTOM: LLM-67B-Chat
+# Qwen-72B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 72B-Chat
+# Open-Mixtral-8x7B
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Open-Mixtral-8x7B
+# SOLAR-10.7B-Instruct-v1.0
+  folder: 4-other | TOP: Upstage | MID: upstage | BOTTOM: SOLAR-10.7B-Instruct-v1.0
+# OpenChat-3.5-0106
+  folder: 4-other | TOP: OpenChat | MID: openchat | BOTTOM: 3.5-0106
+# Code-Llama-70b-Instruct-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Code-Llama-70b-Instruct-hf
+# Qwen1.5-14B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 1.5-14B-Chat
+# Qwen1.5-4B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 1.5-4B-Chat
+# Qwen1.5-72B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 1.5-72B-Chat
+# StarCoder2-15B
+  folder: 4-other | TOP: Software Heritage | MID: software-heritage | BOTTOM: StarCoder2-15B
+# C4AI-Command-R-v01
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: C4AI-Command-R-v01
+# Starling-LM-7B-beta
+  folder: 4-other | TOP: Starling | MID: starling | BOTTOM: LM-7B-beta
+# Bielik-7B-Instruct-v0.1
+  folder: 4-other | TOP: SpeakLeash | MID: speakleash | BOTTOM: Bielik-7B-Instruct-v0.1
+# PixArt-Sigma-XL-2-1024-MS
+  folder: 4-other | TOP: PixArt | MID: pixart | BOTTOM: Sigma-XL-2-1024-MS
+# Open-Mixtral-8x22B
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Open-Mixtral-8x22B
+# Llama-3-70b-chat-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Llama-3-70b-chat-hf
+# Llama-3-8b-chat-hf
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Llama-3-8b-chat-hf
+# Qwen1.5-110B-Chat
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 1.5-110B-Chat
+# Phi-3-small-128k-instruct
+  folder: 4-other | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-3-small-128k-instruct
+# Codestral-22B-v0.1
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Codestral-22B-v0.1
+# Codestral-2405
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Codestral-2405
+# SD3-Medium
+  folder: 4-other | TOP: Stability | MID: stability | BOTTOM: SD3-Medium
+# SmolLM-1.7B
+  folder: 4-other | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolLM-1.7B
+# Mistral-Large-Instruct-2407
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Large-Instruct-2407
+# AuraFlow-v0.3
+  folder: 4-other | TOP: AuraFlow | MID: auraflow | BOTTOM: v0.3
+# Bielik-11B-v2-Instruct
+  folder: 4-other | TOP: SpeakLeash | MID: speakleash | BOTTOM: Bielik-11B-v2-Instruct
+# Bielik-11B-v2.2-Instruct
+  folder: 4-other | TOP: SpeakLeash | MID: speakleash | BOTTOM: Bielik-11B-v2.2-Instruct
+# Bielik-11B-v2.3-Instruct
+  folder: 4-other | TOP: SpeakLeash | MID: speakleash | BOTTOM: Bielik-11B-v2.3-Instruct
+# Command-R-08-2024
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Command-R-08-2024
+# Command-R-Plus-08-2024
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Command-R-Plus-08-2024
+# OLMoE-1B-7B-0924-Instruct
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: OLMoE-1B-7B-0924-Instruct
+# DeepSeek-V2.5
+  folder: 4-other | TOP: DeepSeek | MID: deepseek | BOTTOM: V2.5
+# Teuken-7B-instruct-research-v0.4
+  folder: 4-other | TOP: Teuken | MID: teuken | BOTTOM: 7B-instruct-research-v0.4
+# Salamandra-7b-instruct
+  folder: 4-other | TOP: Barcelona Supercomputing Center | MID: bsc | BOTTOM: Salamandra-7b-instruct
+# C SD 3.5 Large
+  folder: 4-other | TOP: Stability | MID: stability | BOTTOM: C SD 3.5 Large
+# Aya-Expanse-32b
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Aya-Expanse-32b
+# Aya-Expanse-8b
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Aya-Expanse-8b
+# Recraft-V3
+  folder: 4-other | TOP: Recraft | MID: recraft | BOTTOM: V3
+# Pixtral-Large-Instruct-2411
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Pixtral-Large-Instruct-2411
+# Tulu-3-70B
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: Tulu-3-70B
+# Tulu-3-8B
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: Tulu-3-8B
+# OLMo-2-1124-13B-Instruct
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: OLMo-2-1124-13B-Instruct
+# EXAONE-3.5-7B-Instruct
+  folder: 4-other | TOP: LG | MID: lg | BOTTOM: EXAONE-3.5-7B-Instruct
+# Command-R7B-12-2024
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Command-R7B-12-2024
+# DeepSeek-VL2-small
+  folder: 4-other | TOP: DeepSeek | MID: deepseek | BOTTOM: VL2-small
+# Falcon3-10B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon3-10B-Instruct
+# Falcon3-1B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon3-1B-Instruct
+# Falcon3-3B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon3-3B-Instruct
+# Falcon3-7B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon3-7B-Instruct
+# DeepSeek-R1-Zero
+  folder: 4-other | TOP: DeepSeek | MID: deepseek | BOTTOM: R1-Zero
+# Lumina-Image-2.0
+  folder: 4-other | TOP: Lumina | MID: lumina | BOTTOM: Image-2.0
+# Janus-Pro-7B
+  folder: 4-other | TOP: DeepSeek | MID: deepseek | BOTTOM: Janus-Pro-7B
+# Qwen2.5-Max
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Max
+# Tulu-3-405B
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: Tulu-3-405B
+# Phi-4-multimodal-instruct
+  folder: 4-other | TOP: Microsoft | MID: microsoft | BOTTOM: Phi-4-multimodal-instruct
+# Kanana-Nano-2.1B-Base
+  folder: 4-other | TOP: Kanana | MID: kanana | BOTTOM: Nano-2.1B-Base
+# Command-A-03-2025
+  folder: 4-other | TOP: Cohere | MID: cohere | BOTTOM: Command-A-03-2025
+# Sana-1.5-4.8B-2560px
+  folder: 4-other | TOP: NVIDIA | MID: nvidia | BOTTOM: Sana-1.5-4.8B-2560px
+# EXAONE-Deep-2.4B
+  folder: 4-other | TOP: LG | MID: lg | BOTTOM: EXAONE-Deep-2.4B
+# EXAONE-Deep-32B
+  folder: 4-other | TOP: LG | MID: lg | BOTTOM: EXAONE-Deep-32B
+# EXAONE-Deep-7B
+  folder: 4-other | TOP: LG | MID: lg | BOTTOM: EXAONE-Deep-7B
+# Sana-Sprint-1.6B-1024px
+  folder: 4-other | TOP: NVIDIA | MID: nvidia | BOTTOM: Sana-Sprint-1.6B-1024px
+# Ideogram-3.0
+  folder: 4-other | TOP: Ideogram | MID: ideogram | BOTTOM: 3.0
+# HiDream-I1-Full
+  folder: 4-other | TOP: HiDream | MID: hidream | BOTTOM: I1-Full
+# HiDream-I1-Dev
+  folder: 4-other | TOP: HiDream | MID: hidream | BOTTOM: I1-Dev
+# Kolors-2.0
+  folder: 4-other | TOP: Kolors | MID: kolors | BOTTOM: 2.0
+# GPT-Image-1
+  folder: 4-other | TOP: OpenAI | MID: openai | BOTTOM: GPT-Image-1
+# HyperCLOVA-X-SEED-Text-Instruct-0.5B
+  folder: 4-other | TOP: Naver | MID: naver | BOTTOM: HyperCLOVA-X-SEED-Text-Instruct-0.5B
+# HyperCLOVA-X-SEED-Text-Instruct-3B
+  folder: 4-other | TOP: Naver | MID: naver | BOTTOM: HyperCLOVA-X-SEED-Text-Instruct-3B
+# HiDream-E1-Full
+  folder: 4-other | TOP: HiDream | MID: hidream | BOTTOM: E1-Full
+# Bielik-11B-v2.5-Instruct
+  folder: 4-other | TOP: SpeakLeash | MID: speakleash | BOTTOM: Bielik-11B-v2.5-Instruct
+# Mistral-Medium-2505
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Medium-2505
+# Bagel
+  folder: 4-other | TOP: Ai2 | MID: ai2 | BOTTOM: Bagel
+# Devstral-Small-2505
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Devstral-Small-2505
+# Falcon-H1-0.5B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon-H1-0.5B-Instruct
+# Falcon-H1-1B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon-H1-1B-Instruct
+# Falcon-H1-34B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon-H1-34B-Instruct
+# Falcon-H1-7B-Instruct
+  folder: 4-other | TOP: TII | MID: tii | BOTTOM: Falcon-H1-7B-Instruct
+# Kanana-1.5-2.1B-Instruct-2505
+  folder: 4-other | TOP: Kanana | MID: kanana | BOTTOM: 1.5-2.1B-Instruct-2505
+# Kanana-1.5-8B-Instruct-2505
+  folder: 4-other | TOP: Kanana | MID: kanana | BOTTOM: 1.5-8B-Instruct-2505
+# MiMo-VL-7B-RL
+  folder: 4-other | TOP: Xiaomi | MID: xiaomi-mimo | BOTTOM: MiMo-VL-7B-RL
+# Magistral-Medium-2506
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Magistral-Medium-2506
+# Devstral-Medium-2507
+  folder: 4-other | TOP: Mistral | MID: mistral | BOTTOM: Devstral-Medium-2507
+# Grok Imagine Image
+  folder: 4-other | TOP: xAI | MID: xai | BOTTOM: Grok Imagine Image
+# Qwen-Image
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: Image
+# GPT-5-mini
+  folder: 4-other | TOP: OpenAI | MID: openai | BOTTOM: GPT-5-mini
+# Imagen-4.0-Fast
+  folder: 4-other | TOP: Google | MID: google | BOTTOM: Imagen-4.0-Fast
+# Imagen-4.0-Standard
+  folder: 4-other | TOP: Google | MID: google | BOTTOM: Imagen-4.0-Standard
+# Imagen-4.0-Ultra
+  folder: 4-other | TOP: Google | MID: google | BOTTOM: Imagen-4.0-Ultra
+# Nano-Banana
+  folder: 4-other | TOP: Google | MID: google | BOTTOM: Nano-Banana
+# Seedream-4.0
+  folder: 4-other | TOP: ByteDance | MID: bytedance | BOTTOM: Seedream-4.0
+# Ring-flash-2.0
+  folder: 4-other | TOP: Ring | MID: ring | BOTTOM: flash-2.0
+# Wan-2.5-T2I-Preview
+  folder: 4-other | TOP: Alibaba | MID: alibaba | BOTTOM: Wan-2.5-T2I-Preview
+# HunyuanImage-3
+  folder: 4-other | TOP: Tencent | MID: tencent | BOTTOM: HunyuanImage-3
+# Ling-1T
+  folder: 4-other | TOP: Ant Group | MID: ant | BOTTOM: Ling-1T
+# Ring-1T
+  folder: 4-other | TOP: Ring | MID: ring | BOTTOM: 1T
+# KAT-Coder-Pro-V1
+  folder: 4-other | TOP: Sakana | MID: sakana | BOTTOM: KAT-Coder-Pro-V1
+# Gemini 3
+  folder: 4-other | TOP: Gemini | MID: gemini | BOTTOM: 3
+# Gemini 3 Pro
+  folder: 4-other | TOP: Gemini | MID: gemini | BOTTOM: 3 Pro
+# Gemini 3 Pro Preview
+  folder: 4-other | TOP: Gemini | MID: gemini | BOTTOM: 3 Pro Preview
+# Nano-Banana-Pro
+  folder: 4-other | TOP: Google | MID: google | BOTTOM: Nano-Banana-Pro
+# FLUX.2-dev
+  folder: 4-other | TOP: BFL | MID: black-forest | BOTTOM: FLUX.2-dev
+# Nova-2.0-Lite
+  folder: 4-other | TOP: Amazon | MID: amazon | BOTTOM: Nova-2.0-Lite
+# Seedream-4.5
+  folder: 4-other | TOP: ByteDance | MID: bytedance | BOTTOM: Seedream-4.5
+# GPT-Image-1.5
+  folder: 4-other | TOP: OpenAI | MID: openai | BOTTOM: GPT-Image-1.5
+# K-EXAONE
+  folder: 4-other | TOP: LG | MID: lg | BOTTOM: K-EXAONE
+# Step3-VL-10B
+  folder: 4-other | TOP: Step3 | MID: stepfun | BOTTOM: VL-10B
+# GLM-Image
+  folder: 4-other | TOP: Z.ai | MID: zai | BOTTOM: GLM-Image
+# FLUX.2-klein-9B
+  folder: 4-other | TOP: BFL | MID: black-forest | BOTTOM: FLUX.2-klein-9B
+# Trinity-Large-Preview
+  folder: 4-other | TOP: Nexusflow | MID: nexusflow | BOTTOM: Trinity-Large-Preview
+# Grok 4.20 0309
+  folder: 4-other | TOP: xAI | MID: xai | BOTTOM: Grok 4.20 0309
+# GLM-5-Turbo
+  folder: 4-other | TOP: Z.ai | MID: zai | BOTTOM: GLM-5-Turbo
+# MiMo-V2-Omni-0327
+  folder: 4-other | TOP: Xiaomi | MID: xiaomi-mimo | BOTTOM: MiMo-V2-Omni-0327
+# Muse Spark
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Muse Spark
+# Qwen3.6 Max Preview
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 3.6 Max Preview
+# Qwen3.7 Max
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 3.7 Max
+# Qwen3.7 Plus
+  folder: 4-other | TOP: Qwen | MID: qwen | BOTTOM: 3.7 Plus
+# Nex-N2-Pro
+  folder: 4-other | TOP: Nexusflow | MID: nexusflow | BOTTOM: Nex-N2-Pro
+# Nemotron 3 Ultra
+  folder: 4-other | TOP: NVIDIA | MID: nvidia | BOTTOM: Nemotron 3 Ultra
+# Hy3
+  folder: 4-other | TOP: ByteDance | MID: bytedance | BOTTOM: Hy3
+# JT-4.1 Flash 236B A21B
+  folder: 4-other | TOP: JT | MID: jt | BOTTOM: 4.1 Flash 236B A21B
+# Muse Spark 1.1
+  folder: 4-other | TOP: Meta | MID: meta | BOTTOM: Muse Spark 1.1
+# Agnes 2.5 Pro Alpha
+  folder: 4-other | TOP: Agnes | MID: agnes | BOTTOM: 2.5 Pro Alpha
+# Inkling Small
+  folder: 4-other | TOP: Thinking Machines | MID: thinking-machines | BOTTOM: Inkling-Small
+# Solar Pro 4
+  folder: 4-other | TOP: Upstage | MID: upstage | BOTTOM: Solar Pro 4
+# Motif 3
+  folder: 4-other | TOP: Motif | MID: motif | BOTTOM: 3
+# Apodex 1.1
+  folder: 4-other | TOP: Apodex | MID: apodex | BOTTOM: 1.1
+# Agnes 2.5 Pro Beta
+  folder: 4-other | TOP: Agnes | MID: agnes | BOTTOM: 2.5 Pro Beta
+# Quasar 438B
+  folder: 4-other | TOP: Quasar | MID: quasar | BOTTOM: 438B
+# K2 Horizon 375B A23B
+  folder: 4-other | TOP: K2 | MID: k2 | BOTTOM: Horizon 375B A23B
+
+Monogram brands (0): naver + logo-less
