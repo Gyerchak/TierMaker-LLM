@@ -253,14 +253,14 @@ https://x.ai
   folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-0.5B-Instruct
 # Qwen2.5-Coder-3B-Instruct
   folder: 1-anyone | TOP: Qwen | MID: qwen | BOTTOM: 2.5-Coder-3B-Instruct
+# OLMo-2-1124-7B-Instruct
+  folder: 1-anyone | TOP: Ai2 | MID: ai2 | BOTTOM: OLMo-2-1124-7B-Instruct
 # SmolVLM-Instruct
   folder: 1-anyone | TOP: HuggingFace | MID: hugging-face | BOTTOM: SmolVLM-Instruct
 # EXAONE-3.5-2.4B-Instruct
   folder: 1-anyone | TOP: LG | MID: lg | BOTTOM: EXAONE-3.5-2.4B-Instruct
 # EuroLLM-9B-Instruct
   folder: 1-anyone | TOP: EuroLLM | MID: eurollm | BOTTOM: 9B Instruct
-# OLMo-2-1124-7B-Instruct
-  folder: 1-anyone | TOP: Ai2 | MID: ai2 | BOTTOM: OLMo-2-1124-7B-Instruct
 # DeepSeek-R1
   folder: 1-anyone | TOP: DeepSeek | MID: deepseek | BOTTOM: R1
 # DeepSeek-R1-Distill-Llama-8B

@@ -96,10 +96,10 @@ file,display,date,tier,tail,old_group
 1-anyone/2024-11-02-smollm2-360m-base-ANYONE.png,SmolLM2-360M,2024-11-02,2,ANYONE,4ANYONE
 1-anyone/2024-11-12-qwen2-5-coder-0-5b-instruct-base-ANYONE.png,Qwen2.5-Coder-0.5B-Instruct,2024-11-12,2,ANYONE,4ANYONE
 1-anyone/2024-11-12-qwen2-5-coder-3b-instruct-base-ANYONE.png,Qwen2.5-Coder-3B-Instruct,2024-11-12,2,ANYONE,4ANYONE
+1-anyone/2024-11-26-olmo-2-1124-7b-instruct-base-ANYONE.png,OLMo-2-1124-7B-Instruct,2024-11-26,2,ANYONE,4ANYONE
 1-anyone/2024-11-26-smolvlm-instruct-base-ANYONE.png,SmolVLM-Instruct,2024-11-26,2,ANYONE,4ANYONE
 1-anyone/2024-12-01-exaone-3-5-2-4b-instruct-base-ANYONE.png,EXAONE-3.5-2.4B-Instruct,2024-12-01,2,ANYONE,4ANYONE
 1-anyone/2024-12-09-eurollm-9b-instruct-base-ANYONE.png,EuroLLM-9B-Instruct,2024-12-09,2,ANYONE,4ANYONE
-1-anyone/2024-12-18-olmo-2-1124-7b-instruct-base-ANYONE.png,OLMo-2-1124-7B-Instruct,2024-12-18,2,ANYONE,4ANYONE
 1-anyone/2025-01-20-deepseek-r1-base-ANYONE.png,DeepSeek-R1,2025-01-20,2,ANYONE,4ANYONE
 1-anyone/2025-01-20-deepseek-r1-distill-llama-8b-base-ANYONE.png,DeepSeek-R1-Distill-Llama-8B,2025-01-20,2,ANYONE,4ANYONE
 1-anyone/2025-01-20-deepseek-r1-distill-qwen-1-5b-base-ANYONE.png,DeepSeek-R1-Distill-Qwen-1.5B,2025-01-20,2,ANYONE,4ANYONE
@@ -153,7 +153,7 @@ file,display,date,tier,tail,old_group
 3-open/2024-07-23-llama-3-1-405b-instruct-base-OPEN.png,Llama-3.1-405B-Instruct,2024-07-23,4,OPEN,2OPEN
 3-open/2024-07-23-llama-3-1-70b-instruct-base-OPEN.png,Llama-3.1-70B-Instruct,2024-07-23,4,OPEN,2OPEN
 3-open/2024-09-11-solar-pro-preview-instruct-base-OPEN.png,Solar-Pro-Preview-Instruct,2024-09-11,4,OPEN,2OPEN
-3-open/2024-09-17-mistral-small-instruct-2409-base-OPEN.png,Mistral-Small-Instruct-2409,2024-09-17,4,OPEN,2OPEN
+3-open/2024-09-18-mistral-small-instruct-2409-base-OPEN.png,Mistral-Small-Instruct-2409,2024-09-18,4,OPEN,2OPEN
 3-open/2024-09-19-qwen2-5-72b-instruct-base-OPEN.png,Qwen2.5-72B-Instruct,2024-09-19,4,OPEN,2OPEN
 3-open/2024-09-25-llama-3-2-90b-vision-instruct-base-OPEN.png,Llama-3.2-90B-Vision-Instruct,2024-09-25,4,OPEN,2OPEN
 3-open/2024-11-18-mistral-large-instruct-2411-base-OPEN.png,Mistral-Large-Instruct-2411,2024-11-18,4,OPEN,2OPEN
@@ -295,11 +295,11 @@ file,display,date,tier,tail,old_group
 4-other/2026-01-27-trinity-large-preview-base-CLOSED.png,Trinity-Large-Preview,2026-01-27,4,CLOSED,1CLOSED
 4-other/2026-03-09-grok-4-20-0309-base-CLOSED.png,Grok 4.20 0309,2026-03-09,4,CLOSED,1CLOSED
 4-other/2026-03-16-glm-5-turbo-base-CLOSED.png,GLM-5-Turbo,2026-03-16,4,CLOSED,1CLOSED
-4-other/2026-03-27-mimo-v2-omni-0327-base-CLOSED.png,MiMo-V2-Omni-0327,2026-03-27,4,CLOSED,1CLOSED
+4-other/2026-03-18-mimo-v2-omni-0327-base-CLOSED.png,MiMo-V2-Omni-0327,2026-03-18,4,CLOSED,1CLOSED
 4-other/2026-04-08-muse-spark-base-CLOSED.png,Muse Spark,2026-04-08,4,CLOSED,1CLOSED
 4-other/2026-04-20-qwen3-6-max-preview-base-CLOSED.png,Qwen3.6 Max Preview,2026-04-20,4,CLOSED,1CLOSED
 4-other/2026-05-20-qwen3-7-max-base-CLOSED.png,Qwen3.7 Max,2026-05-20,4,CLOSED,1CLOSED
-4-other/2026-06-01-qwen3-7-plus-base-CLOSED.png,Qwen3.7 Plus,2026-06-01,4,CLOSED,1CLOSED
+4-other/2026-05-20-qwen3-7-plus-base-CLOSED.png,Qwen3.7 Plus,2026-05-20,4,CLOSED,1CLOSED
 4-other/2026-06-03-nex-n2-pro-base-CLOSED.png,Nex-N2-Pro,2026-06-03,4,CLOSED,1CLOSED
 4-other/2026-06-04-nemotron-3-ultra-base-CLOSED.png,Nemotron 3 Ultra,2026-06-04,4,CLOSED,1CLOSED
 4-other/2026-07-06-hy3-base-CLOSED.png,Hy3,2026-07-06,4,CLOSED,1CLOSED
