@@ -1,5 +1,16 @@
 # TierMaker-LLM
 
+<div align="center">
+
+## 🏁 LIVE TIER LIST TEMPLATE
+
+**▶ [Open the template on TierMaker](https://tiermaker.com/create/llm-ai-models---gpt6-astra---claude51---muse13---glm53--15169358) ◀**
+
+*April · September 2026 — LLM AI models — GPT6-Astra, Claude 5.1, Muse 1.3, GLM 5.3 …*
+
+</div>
+
+---
 **September 2026 LLM Tier List template graphics** — ready-to-upload tiles for a TierMaker template ranking large language models for coding / agentic / special use.
 
 Built from the September 2026 **Artificial Analysis Intelligence Index** (>= 30) plus the **OpenCode workspace** model list, deduplicated, with official release dates and per-brand logos.
