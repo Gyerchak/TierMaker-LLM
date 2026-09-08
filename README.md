@@ -12,7 +12,7 @@
 
 ---
 **September 2026 LLM Tier List template graphics*  
-*GPT-6 Astra → DeepSeek 4.1 Flash (2026-09-08) — DeepSeek 4.1 Flash is the newest model on the list.** — ready-to-upload tiles for a TierMaker template ranking large language models for coding / agentic / special use.
+*Newest: DeepSeek 4.1 Flash & Xiaomi MiMo-V3 (2026-09-08) · Qwen3.8 Max · GPT-6 Astra · Claude 5.1 …** — ready-to-upload tiles for a TierMaker template ranking large language models for coding / agentic / special use.
 
 Built from the September 2026 **Artificial Analysis Intelligence Index** (>= 30) plus the **OpenCode workspace** model list, deduplicated, with official release dates and per-brand logos.
 
@@ -20,7 +20,7 @@ Built from the September 2026 **Artificial Analysis Intelligence Index** (>= 30)
 
 | Path | What |
 |------|------|
-| `tiles/` | 315 branded tiles (1024×1024 PNG), sorted into tiers |
+| `tiles/` | 318 branded tiles (1024×1024 PNG), sorted into tiers |
 | `icons/` | Deduplicated official brand logos used in the tiles |
 | `SOURCES-LOGOS.txt` | Attribution: every model's folder, top/bottom labels, logo graphic, and official source URL |
 | `MANIFEST.csv` | Full list: file, display name, release date, tier, tail |
@@ -32,7 +32,7 @@ Sorting the `tiles/` folders alphabetically gives the tier order:
 
 | Folder | Prefix | Meaning | Tiles |
 |--------|--------|---------|-------|
-| `tiles/0-opencode/` | E- | OpenCode-hosted models (closed + open) | 62 |
+| `tiles/0-frontier/` | E- | OpenCode-hosted models (closed + open) | 68 |
 | `tiles/1-anyone/` | D- | open weights, runs on ≤24 GB | 59 |
 | `tiles/2-hobbyst/` | C- | open weights, hobbyist-scale (≤100 GB) | 26 |
 | `tiles/3-open/` | B- | open weights, otherwise | 30 |
@@ -42,7 +42,7 @@ Sorting the `tiles/` folders alphabetically gives the tier order:
 
 `YYYY-MM-DD-SLUG-base-TAIL.png` inside each folder — date = the model's **official release date** (verified against vendor announcements; Hugging Face `createdAt` used only where no official date exists).
 
-Tail values: `OPENOC` (OpenCode-only), `ANYONE`, `HOBBYST`, `OPEN`, `CLOSED`.
+Tail values: `FRONTIER` (frontier-tier), `OPEN`, `ANYONE`, `HOBBYST`, `OPEN`, `CLOSED`.
 
 ## Attribution
 
