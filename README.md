@@ -32,11 +32,12 @@ Sorting the `tiles/` folders alphabetically gives the tier order:
 
 | Folder | Prefix | Meaning | Tiles |
 |--------|--------|---------|-------|
-| `tiles/0-frontier/` | E- | OpenCode-hosted models (closed + open) | 68 |
+| `tiles/0-frontier/` | A- | Frontier-tier models (closed + open) | 66 |
 | `tiles/1-anyone/` | D- | open weights, runs on ≤24 GB | 59 |
 | `tiles/2-hobbyst/` | C- | open weights, hobbyist-scale (≤100 GB) | 26 |
 | `tiles/3-open/` | B- | open weights, otherwise | 30 |
 | `tiles/4-other/` | A- | everything else (older / other) | 138 |
+| `tiles/5-oldopenweight/` | F- | older open-weight models | 2 |
 
 ## Naming
 

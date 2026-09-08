@@ -32,10 +32,10 @@ file,display,date,tier,tail,old_group
 0-frontier/2026-04-20-kimi-k2-6-base-OPEN.png,Kimi K2.6,2026-04-20,4,OPEN,2OPEN
 0-frontier/2026-04-23-gpt-5-5-base-FRONTIER.png,GPT 5.5,2026-04-23,0,FRONTIER,1CLOSED
 0-frontier/2026-04-23-gpt-5-5-pro-base-FRONTIER.png,GPT 5.5 Pro,2026-04-23,0,FRONTIER,1CLOSED
-0-frontier/2026-05-21-qwen3-7-max-base-OPEN.png,Qwen3.7 Max,2026-05-21,4,OPEN,2OPEN
+5-oldopenweight/2026-05-21-qwen3-7-max-base-OPEN.png,Qwen3.7 Max,2026-05-21,4,OPEN,2OPEN
 0-frontier/2026-05-28-claude-opus-4-8-base-FRONTIER.png,Claude Opus 4.8,2026-05-28,0,FRONTIER,1CLOSED
 0-frontier/2026-06-01-minimax-m3-base-OPEN.png,MiniMax M3,2026-06-01,4,OPEN,2OPEN
-0-frontier/2026-06-03-qwen3-7-plus-base-OPEN.png,Qwen3.7 Plus,2026-06-03,4,OPEN,2OPEN
+5-oldopenweight/2026-06-03-qwen3-7-plus-base-OPEN.png,Qwen3.7 Plus,2026-06-03,4,OPEN,2OPEN
 0-frontier/2026-06-09-claude-fable-5-base-FRONTIER.png,Claude Fable 5,2026-06-09,0,FRONTIER,1CLOSED
 0-frontier/2026-06-12-kimi-k2-7-code-base-OPEN.png,Kimi K2.7 Code,2026-06-12,4,OPEN,2OPEN
 0-frontier/2026-06-13-glm-5-2-base-OPEN.png,GLM 5.2,2026-06-13,4,OPEN,2OPEN
@@ -317,6 +317,7 @@ file,display,date,tier,tail,old_group
 4-other/2026-08-26-agnes-2-5-pro-beta-base-CLOSED.png,Agnes 2.5 Pro Beta,2026-08-26,4,CLOSED,1CLOSED
 4-other/2026-09-02-quasar-438b-base-CLOSED.png,Quasar 438B,2026-09-02,4,CLOSED,1CLOSED
 4-other/2026-09-03-k2-horizon-375b-a23b-base-CLOSED.png,K2 Horizon 375B A23B,2026-09-03,4,CLOSED,1CLOSED
+
 
 
 
