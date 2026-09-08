@@ -11,7 +11,8 @@
 </div>
 
 ---
-**September 2026 LLM Tier List template graphics** — ready-to-upload tiles for a TierMaker template ranking large language models for coding / agentic / special use.
+**September 2026 LLM Tier List template graphics*  
+*GPT-6 Astra → DeepSeek 4.1 Flash (2026-09-08) — DeepSeek 4.1 Flash is the newest model on the list.** — ready-to-upload tiles for a TierMaker template ranking large language models for coding / agentic / special use.
 
 Built from the September 2026 **Artificial Analysis Intelligence Index** (>= 30) plus the **OpenCode workspace** model list, deduplicated, with official release dates and per-brand logos.
 
@@ -19,7 +20,7 @@ Built from the September 2026 **Artificial Analysis Intelligence Index** (>= 30)
 
 | Path | What |
 |------|------|
-| `tiles/` | 314 branded tiles (1024×1024 PNG), sorted into tiers |
+| `tiles/` | 315 branded tiles (1024×1024 PNG), sorted into tiers |
 | `icons/` | Deduplicated official brand logos used in the tiles |
 | `SOURCES-LOGOS.txt` | Attribution: every model's folder, top/bottom labels, logo graphic, and official source URL |
 | `MANIFEST.csv` | Full list: file, display name, release date, tier, tail |
@@ -31,7 +32,7 @@ Sorting the `tiles/` folders alphabetically gives the tier order:
 
 | Folder | Prefix | Meaning | Tiles |
 |--------|--------|---------|-------|
-| `tiles/0-opencode/` | E- | OpenCode-hosted models (closed + open) | 61 |
+| `tiles/0-opencode/` | E- | OpenCode-hosted models (closed + open) | 62 |
 | `tiles/1-anyone/` | D- | open weights, runs on ≤24 GB | 59 |
 | `tiles/2-hobbyst/` | C- | open weights, hobbyist-scale (≤100 GB) | 26 |
 | `tiles/3-open/` | B- | open weights, otherwise | 30 |

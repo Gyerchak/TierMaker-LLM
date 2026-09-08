@@ -60,6 +60,7 @@ file,display,date,tier,tail,old_group
 0-opencode/2026-09-02-gemini-3-8-flash-base-OPENOC.png,Gemini 3.8 Flash,2026-09-02,0,OPENOC,1CLOSED
 0-opencode/2026-09-02-muse-spark-1-3-base-OPENOC.png,Muse Spark 1.3,2026-09-02,0,OPENOC,1CLOSED
 0-opencode/2026-09-03-gpt-6-astra-base-OPENOC.png,GPT 6 Astra,2026-09-03,0,OPENOC,1CLOSED
+0-opencode/2026-09-08-deepseek-4.1-flash-base-OPEN.png,DeepSeek 4.1 Flash,2026-09-08,4,OPEN,2OPEN
 1-anyone/2023-07-26-stable-diffusion-xl-base-ANYONE.png,Stable-Diffusion-XL-Base-1.0,2023-07-26,2,ANYONE,4ANYONE
 1-anyone/2023-08-03-qwen-7b-chat-base-ANYONE.png,Qwen-7B-Chat,2023-08-03,2,ANYONE,4ANYONE
 1-anyone/2023-09-27-mistral-7b-instruct-v0-1-base-ANYONE.png,Mistral-7B-Instruct-v0.1,2023-09-27,2,ANYONE,4ANYONE
